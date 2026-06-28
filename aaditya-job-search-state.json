@@ -1,0 +1,635 @@
+{
+  "last_run": "2026-06-28",
+  "baseline_date": "2026-06-28",
+  "jobs": {
+    "https://www.linkedin.com/jobs/view/customer-success-engineer-entry-level-sales-program-2026-at-ibm-4427386901": {
+      "company": "IBM",
+      "description": "**Customer Success Engineer — Entry Level Sales Program 2026** (McLean, VA). Entry-level IBM Global Sales track. Deliver technical proof points (demos, POCs, workshops, MVPs); develop customer success plans; drive product adoption. Pay ~$92K–$138K. Strong match for your POC experience.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/customer-success-engineer-entry-level-sales-program-2026-at-ibm-4427386901",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solution-engineer-fintech-lending-at-cync-software-4405957435": {
+      "company": "Cync Software",
+      "description": "**Solution Engineer — Fintech, Lending** (Herndon, VA, on-site). Explicitly targets **0–2 years**; CS/finance degree. Run discovery, configure demos, handle technical objections for commercial lending SaaS on AWS. AI-powered credit analytics. Pre-sales launchpad role.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solution-engineer-fintech-lending-at-cync-software-4405957435",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-bitwarden-4402492054": {
+      "company": "Bitwarden",
+      "description": "**Solutions Engineer** (United States, remote). B2B password management SE; customer-facing demos and technical sales support. Posted ~2 days ago.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-bitwarden-4402492054",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-u-s-based-at-authzed-4416954072": {
+      "company": "AuthZed",
+      "description": "**Solutions Engineer — U.S. Based** (remote). Authorization/infrastructure SaaS SE. $130K–$160K. US-wide remote.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-u-s-based-at-authzed-4416954072",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-bretton-ai-4388512610": {
+      "company": "Bretton AI",
+      "description": "**Solutions Engineer** (United States, remote). AI-focused SE; demo and technical discovery for AI platform buyers.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-bretton-ai-4388512610",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-feathery-4432459983": {
+      "company": "Feathery",
+      "description": "**Solutions Engineer** (United States, remote). AI form/product company; SE role posted ~4 days ago.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-feathery-4432459983",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-workbrew-4434009841": {
+      "company": "Workbrew",
+      "description": "**Solutions Engineer** (United States, remote). Developer-tools SE; remote US posting.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-workbrew-4434009841",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/inside-solutions-engineer-remote-at-beyondtrust-4413164520": {
+      "company": "BeyondTrust",
+      "description": "**Inside Solutions Engineer — Remote** (United States). Remote presales for privileged access/security; inside SE model good for earlier career.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/inside-solutions-engineer-remote-at-beyondtrust-4413164520",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/presales-solution-engineer-us-remote-at-cplace-4427321715": {
+      "company": "cplace",
+      "description": "**PreSales Solution Engineer — US Remote**. Project/portfolio management SaaS presales; US remote.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/presales-solution-engineer-us-remote-at-cplace-4427321715",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-expansion-sales-at-tailscale-4397579243": {
+      "company": "Tailscale",
+      "description": "**Solutions Engineer — Commercial (Expansion Sales)** (United States, remote). Networking/security SaaS; commercial SE track.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-expansion-sales-at-tailscale-4397579243",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-drata-4419673034": {
+      "company": "Drata",
+      "description": "**Partner Solutions Engineer** (United States, remote). Compliance/security platform; partner-facing SE.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-drata-4419673034",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-descope-4433852602": {
+      "company": "Descope",
+      "description": "**Solutions Engineer** (United States, remote). Auth/identity SaaS SE; posted ~2 days ago.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-descope-4433852602",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4404482220": {
+      "company": "Redpanda Data",
+      "description": "**Solutions Engineer** (United States, remote). Streaming data platform SE; cloud-native buyer conversations.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4404482220",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/consultant-ai-data-defense-security-campus-2026-at-guidehouse-4434034907": {
+      "company": "Guidehouse",
+      "description": "**Consultant — AI & Data, Defense & Security — Campus 2026** (McLean/Arlington, VA). Campus/new grad consulting; AI + defense vertical.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/consultant-ai-data-defense-security-campus-2026-at-guidehouse-4434034907",
+      "section": "apply_first",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/presales-solutions-engineer-email-security-at-shi-international-corp-4417985589": {
+      "company": "SHI International",
+      "description": "**Presales Solutions Engineer — Email Security** (US remote; may report Austin, TX). Customer-facing presales; discovery, demos, **PoC support**, hybrid/cloud security. Requires ~3+ yrs cybersecurity presales — **stretch** but strong title match.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/presales-solutions-engineer-email-security-at-shi-international-corp-4417985589",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/presales-solutions-engineer-data-protection-at-shi-international-corp-4411530159": {
+      "company": "SHI International",
+      "description": "**Presales Solutions Engineer — Data Protection** (United States / Texas). VAR presales; data protection and backup solutions.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/presales-solutions-engineer-data-protection-at-shi-international-corp-4411530159",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/security-engineer-google-at-shi-international-corp-4413112990": {
+      "company": "SHI International",
+      "description": "**Security Engineer — Google** (United States). Google Cloud security presales through SHI channel.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/security-engineer-google-at-shi-international-corp-4413112990",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413736882": {
+      "company": "Arrow Electronics",
+      "description": "**Pre-Sales Solutions Architect — IBM** (Parsippany, NJ; fully remote). IBM Hybrid Cloud, OpenShift, Power presales through Arrow. Requires ~5 yrs — **stretch**; IBM ecosystem target.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413736882",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413752005": {
+      "company": "Arrow Electronics",
+      "description": "**Pre-Sales Solutions Architect — IBM** (Lincoln, NE; remote). Same IBM channel presales track; Midwest territory.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413752005",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/presales-engineer-at-softura-4418865133": {
+      "company": "Softura",
+      "description": "**Presales Engineer** (Farmington Hills, MI). IT services presales; actively hiring.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/presales-engineer-at-softura-4418865133",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/specialist-solutions-engineer-cloud-security-at-ahead-4418865123": {
+      "company": "AHEAD",
+      "description": "**Specialist Solutions Engineer — Cloud Security** (United States). Cloud security presales at mid-size integrator.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/specialist-solutions-engineer-cloud-security-at-ahead-4418865123",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/cloud-solutions-architect-at-netapp-4430693512": {
+      "company": "NetApp",
+      "description": "**Cloud Solutions Architect** (Southfield, MI). Storage/cloud presales; non-Big-3 infrastructure vendor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/cloud-solutions-architect-at-netapp-4430693512",
+      "section": "channel_partners",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-domino-data-lab-4409750756": {
+      "company": "Domino Data Lab",
+      "description": "**Enterprise Solutions Engineer** (United States, remote). MLOps/enterprise data science platform SE; GenAI buyer conversations.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-domino-data-lab-4409750756",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/ai-solutions-architect-ai-agent-startup-series-a-%2422m-raised-in-last-5-months%21-%24150k-%24170k-base-salary-generous-bonus-remote-at-scoutlab-io-4428668913": {
+      "company": "ScoutLab.io",
+      "description": "**AI Solutions Architect** (remote). AI agent startup; $150K–$170K base + bonus. Series A; SE/SA hybrid for GenAI agents.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-ai-agent-startup-series-a-%2422m-raised-in-last-5-months%21-%24150k-%24170k-base-salary-generous-bonus-remote-at-scoutlab-io-4428668913",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solution-architect-ai-llm-inference-at-baseten-4412578921": {
+      "company": "Baseten",
+      "description": "**Solution Architect (AI/LLM Inference)** (United States, remote). LLM inference platform; $165K–$330K. Direct LLM stack alignment.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solution-architect-ai-llm-inference-at-baseten-4412578921",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-roboflow-4090855170": {
+      "company": "Roboflow",
+      "description": "**Solutions Architect** (New York, NY / San Francisco, CA). Computer vision + AI platform presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-roboflow-4090855170",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-%E2%80%93-ai-and-innovative-technologies-2-at-amentum-4397368222": {
+      "company": "Amentum",
+      "description": "**Solutions Architect — AI and Innovative Technologies** (Chantilly, VA). Gov/defense contractor; AI solutions presales. US Citizen asset.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-%E2%80%93-ai-and-innovative-technologies-2-at-amentum-4397368222",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/ai-architect-position-pre-sales-at-hewlett-packard-enterprise-4425491322": {
+      "company": "Hewlett Packard Enterprise",
+      "description": "**AI Architect Position (Pre-Sales)** (South Lyon, MI). HPE AI presales; non-Big-3 enterprise vendor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-architect-position-pre-sales-at-hewlett-packard-enterprise-4425491322",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-hewlett-packard-enterprise-4372172008": {
+      "company": "Hewlett Packard Enterprise",
+      "description": "**AI Solution Engineer** (Texas, United States). HPE AI solution engineering / presales in Austin hub.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-hewlett-packard-enterprise-4372172008",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-financial-services-asset-and-wealth-management-at-databricks-4433003672": {
+      "company": "Databricks",
+      "description": "**Solutions Architect — Financial Services** (Washington, DC). Data/AI platform SA; stretch on tenure but strong GenAI fit.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-financial-services-asset-and-wealth-management-at-databricks-4433003672",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-%E2%80%94-ai-data-science-specialist-at-f5-4375442187": {
+      "company": "F5",
+      "description": "**Solutions Engineer — AI & Data Science Specialist** (United States). AI/data-focused SE at networking/app delivery vendor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-%E2%80%94-ai-data-science-specialist-at-f5-4375442187",
+      "section": "ai_genai",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-at-salesforce-4336891351": {
+      "company": "Salesforce",
+      "description": "**Solution Engineer (Pre-Sales) — All Levels** (New York, NY). Explicit all-levels hiring; demos, discovery, executive presentations. Requires 4+ yrs listed — apply for junior band. $89K–$269K.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-at-salesforce-4336891351",
+      "section": "hub_nyc",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-pulumi-4433891061": {
+      "company": "Pulumi",
+      "description": "**Solutions Architect** (San Francisco Bay Area / NYC). Infrastructure-as-code; presales SA.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-pulumi-4433891061",
+      "section": "hub_nyc",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418490527": {
+      "company": "Coralogix",
+      "description": "**Solutions Engineer (Pre-Sales)** (New York area / Dallas / Miami). Observability platform presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418490527",
+      "section": "hub_nyc",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368382286": {
+      "company": "Smarsh",
+      "description": "**Solutions Engineer** (New York, United States). Compliance/archiving SaaS SE.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368382286",
+      "section": "hub_nyc",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/sr-solutions-architect-req%231028-at-eplus-inc-4371589208": {
+      "company": "ePlus",
+      "description": "**Sr Solutions Architect** (New York, NY). Channel partner presales; cloud/security.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/sr-solutions-architect-req%231028-at-eplus-inc-4371589208",
+      "section": "hub_nyc",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-strategic-accounts-remote-texas-at-dynatrace-4420627047": {
+      "company": "Dynatrace",
+      "description": "**Solutions Engineer — Strategic Accounts (Remote, Texas)** (Dallas, TX). Observability SE; Texas remote territory.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-strategic-accounts-remote-texas-at-dynatrace-4420627047",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-remote-texas-at-dynatrace-4404679398": {
+      "company": "Dynatrace",
+      "description": "**Solutions Engineer (Remote — Texas)** (Houston, TX). Same observability presales motion.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-remote-texas-at-dynatrace-4404679398",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-global-at-shi-international-corp-4414034479": {
+      "company": "SHI International",
+      "description": "**Solutions Engineer — Global** (Texas, United States). Data center/cloud presales; Nutanix, Azure, AWS in stack. 3–5 yrs — stretch.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-global-at-shi-international-corp-4414034479",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432246676": {
+      "company": "SolarWinds",
+      "description": "**Solutions Architect** (Austin, TX). Infrastructure monitoring presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432246676",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-avathon-4396391433": {
+      "company": "Avathon",
+      "description": "**Solutions Architect** (Austin, TX). AI/industrial tech presales in Austin hub.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-avathon-4396391433",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/digital-support-intelligent-automation-solutions-engineer-at-autodesk-4433235851": {
+      "company": "Autodesk",
+      "description": "**Digital Support Intelligent Automation Solutions Engineer** (Texas, United States). Automation/AI solutions SE; multiple US states.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/digital-support-intelligent-automation-solutions-engineer-at-autodesk-4433235851",
+      "section": "hub_austin",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/integrations-consultant-at-maintainx-4429753185": {
+      "company": "MaintainX",
+      "description": "**Integrations Consultant** (Raleigh, NC). Customer-facing technical consultant; presales-adjacent integrations.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/integrations-consultant-at-maintainx-4429753185",
+      "section": "hub_raleigh",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432239684": {
+      "company": "SolarWinds",
+      "description": "**Solutions Architect** (Charlotte, NC). Presales SA; Southeast hub.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432239684",
+      "section": "hub_raleigh",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-architect-pre-sales-engineer-at-barracuda-4427036946": {
+      "company": "Barracuda",
+      "description": "**Solutions Architect (Pre-Sales Engineer)** (North Carolina, United States). Security SaaS presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-architect-pre-sales-engineer-at-barracuda-4427036946",
+      "section": "hub_raleigh",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/pre-sales-solution-architect-at-dexian-4429353574": {
+      "company": "Dexian",
+      "description": "**Pre Sales Solution Architect** (Charlotte, NC). IT staffing/channel presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/pre-sales-solution-architect-at-dexian-4429353574",
+      "section": "hub_raleigh",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-coderpad-4410092514": {
+      "company": "CoderPad",
+      "description": "**Solutions Engineer** (United States, remote; Bay Area company). Dev hiring platform SE; $160K–$210K.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-coderpad-4410092514",
+      "section": "hub_sf",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-algolia-4428746676": {
+      "company": "Algolia",
+      "description": "**Solutions Engineer** (United States, remote). Search/API platform SE; vector search relevant to AI apps.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-algolia-4428746676",
+      "section": "hub_sf",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-solutions-architect-ai-infrastructure-at-nvidia-4413179423": {
+      "company": "NVIDIA",
+      "description": "**Senior Solutions Architect, AI Infrastructure** (Santa Clara / Austin). Stretch role; AI infra presales at major vendor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-solutions-architect-ai-infrastructure-at-nvidia-4413179423",
+      "section": "hub_sf",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/mid-market-solutions-engineer-at-box-4425610673": {
+      "company": "Box",
+      "description": "**Mid-Market Solutions Engineer** (Chicago, IL). Enterprise content cloud SE.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/mid-market-solutions-engineer-at-box-4425610673",
+      "section": "hub_chicago",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/security-solutions-architect-at-cyclotron-inc-4425834928": {
+      "company": "Cyclotron",
+      "description": "**Security Solutions Architect** (Chicago, IL). Microsoft security partner presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/security-solutions-architect-at-cyclotron-inc-4425834928",
+      "section": "hub_chicago",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418485930": {
+      "company": "Coralogix",
+      "description": "**Solutions Engineer (Pre-Sales)** (Dallas; also Midwest territories).",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418485930",
+      "section": "hub_chicago",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-box-4427572327": {
+      "company": "Box",
+      "description": "**Enterprise Solutions Engineer** (Atlanta, GA). Cloud content platform presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-box-4427572327",
+      "section": "hub_atlanta",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/technical-architect-poc-lab-alpharetta-ga-at-hewlett-packard-enterprise-4417038349": {
+      "company": "HPE",
+      "description": "**Technical Architect — POC Lab** (Alpharetta, GA, on-site). **POC lab presales** — demos, workshops, proof-of-concepts. Requires 8+ yrs — stretch but ideal POC alignment. $81K–$187K.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/technical-architect-poc-lab-alpharetta-ga-at-hewlett-packard-enterprise-4417038349",
+      "section": "hub_atlanta",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368373426": {
+      "company": "Smarsh",
+      "description": "**Solutions Engineer** (Atlanta, GA).",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368373426",
+      "section": "hub_atlanta",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-pre-sales-at-nametag-4359882242": {
+      "company": "Nametag",
+      "description": "**Enterprise Solutions Engineer (pre-sales)** (Boston, MA). Identity verification SaaS presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-pre-sales-at-nametag-4359882242",
+      "section": "hub_boston",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solutions-engineer-east-or-central-us-remote-at-grafana-labs-4388550765": {
+      "company": "Grafana Labs",
+      "description": "**Solutions Engineer — East or Central US — Remote** (United States). Observability SE; notes junior hires coming later — 5+ yrs preferred now.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-east-or-central-us-remote-at-grafana-labs-4388550765",
+      "section": "hub_boston",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/senior-sales-engineer-new-england-at-proofpoint-4434044321": {
+      "company": "Proofpoint",
+      "description": "**Senior Sales Engineer — New England** (Boston, MA). Email security presales — senior but hub match.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-new-england-at-proofpoint-4434044321",
+      "section": "hub_boston",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/asg-presales-solutions-engineer-cloud-addison-tx--b7cdbf01-edc9-4bef-a87f-9eb67fe286b5": {
+      "company": "SHI International",
+      "description": "**ASG Presales Solutions Engineer — Cloud** (Addison, TX). VAR cloud presales; DFW/Austin corridor.",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/asg-presales-solutions-engineer-cloud-addison-tx--b7cdbf01-edc9-4bef-a87f-9eb67fe286b5",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/solutions-architect-pre-sales-engineer-east-coast-us-new-york-ny--e006cf8e-f3f4-46af-a722-50e71060998e": {
+      "company": "(Employer TBD)",
+      "description": "**Solutions Architect / Pre-Sales Engineer — East Coast US** (New York, NY). East coast presales architect posting on Monster.",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/solutions-architect-pre-sales-engineer-east-coast-us-new-york-ny--e006cf8e-f3f4-46af-a722-50e71060998e",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/solutions-engineer-san-francisco-ca--d7bcb911-2446-49d6-b31c-edd6de7d084e": {
+      "company": "(Employer TBD)",
+      "description": "**Solutions Engineer** (San Francisco, CA). Bay Area SE role aggregated on Monster.",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/solutions-engineer-san-francisco-ca--d7bcb911-2446-49d6-b31c-edd6de7d084e",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/sr-solutions-presales-engineer-san-francisco-ca--d7565e26-a18e-4adf-b8bb-81964abf94db": {
+      "company": "(Employer TBD)",
+      "description": "**Sr. Solutions Presales Engineer** (San Francisco, CA). Senior presales; SF hub. **Stretch.**",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/sr-solutions-presales-engineer-san-francisco-ca--d7565e26-a18e-4adf-b8bb-81964abf94db",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/solutions-engineer-intern-summer-2026-san-francisco-ca--31e66678-9637-4433-85bb-053be3db6649": {
+      "company": "(Employer TBD)",
+      "description": "**Solutions Engineer Intern — Summer 2026** (San Francisco, CA). Internship path into SE org.",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/solutions-engineer-intern-summer-2026-san-francisco-ca--31e66678-9637-4433-85bb-053be3db6649",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.monster.com/job-openings/aws-solution-engineer-pre-sales-engineer-chicago-il--97230e1f-06b7-4bc6-912a-5cbd598152b3": {
+      "company": "(Employer TBD)",
+      "description": "**AWS Solution Engineer / Pre-Sales Engineer** (Chicago, IL). Cloud presales in Chicago — partner/employer varies on Monster.",
+      "link_text": "Apply on Monster",
+      "url": "https://www.monster.com/job-openings/aws-solution-engineer-pre-sales-engineer-chicago-il--97230e1f-06b7-4bc6-912a-5cbd598152b3",
+      "section": "monster",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/ai-solutions-architect-east-region-at-world-wide-technology-4410867759": {
+      "company": "World Wide Technology",
+      "description": "**AI Solutions Architect — East Region** (NYC metro). Technical presales + ATC POC coordination. Requires **10+ yrs**.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-solutions-architect-east-region-at-world-wide-technology-4410867759",
+      "section": "stretch",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/consulting-solutions-engineer-cyber-security-at-world-wide-technology-4389589376": {
+      "company": "World Wide Technology",
+      "description": "**Consulting Solutions Engineer — Cyber Security** (DC-Baltimore). Federal cyber presales; 7–10+ yrs.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/consulting-solutions-engineer-cyber-security-at-world-wide-technology-4389589376",
+      "section": "stretch",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/asg-presales-solutions-engineer-identity-at-shi-international-corp-4355785848": {
+      "company": "SHI International",
+      "description": "**ASG Presales Solutions Engineer — Identity** (New York / remote). Identity security presales; 3–5+ yrs presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/asg-presales-solutions-engineer-identity-at-shi-international-corp-4355785848",
+      "section": "stretch",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/solution-architect-at-red-hat-4432862212": {
+      "company": "Red Hat",
+      "description": "**Solution Architect** (United States). OpenShift/hybrid cloud SA at Red Hat HQ corridor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/solution-architect-at-red-hat-4432862212",
+      "section": "stretch",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    },
+    "https://www.linkedin.com/jobs/view/advisory-pre-sales-solutions-architect-at-mongodb-4261070318": {
+      "company": "MongoDB",
+      "description": "**Advisory Pre-Sales Solutions Architect** (United States). Data/vector search presales.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/advisory-pre-sales-solutions-architect-at-mongodb-4261070318",
+      "section": "stretch",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28"
+    }
+  },
+  "run_history": [
+    {
+      "date": "2026-06-28",
+      "action": "bootstrap",
+      "total": 69,
+      "new_count": 0
+    }
+  ]
+}
