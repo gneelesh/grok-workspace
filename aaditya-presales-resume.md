@@ -2,7 +2,7 @@
 
 **Cloud & AI Solutions Engineer | AWS SAA | Pre-Sales & Technical Delivery**
 
-+1 (703) 488-8034 | aaditya.ghosalkar@gmail.com | [LinkedIn](#) | [GitHub](#) | US Citizen
++1 (703) 488-8034 | aaditya.ghosalkar@gmail.com | [LinkedIn](#) | [GitHub](#) | US Citizen · Open to relocation (anywhere in US)
 
 ---
 
