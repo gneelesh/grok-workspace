@@ -1,8 +1,8 @@
 # Aaditya Ghosalkar — Job Search Results (2026)
 
 **Last updated:** 2026-07-03  
-**Previous run:** 2026-06-28  
-**Total tracked:** 96  
+**Previous run:** 2026-07-03  
+**Total tracked:** 88  
 **New this run:** 27  
 
 **Profile:** ~2 YOE · UVA CS · AWS SAA + AI Practitioner · GenAI/POC delivery · Open to relocate US-wide  
@@ -15,7 +15,7 @@
 
 ## 🆕 What's new — 2026-07-03
 
-**27 new posting(s)** since previous run (2026-06-28).
+**27 new posting(s)** since previous run (2026-07-03).
 
 | company_name | job_description | link |
 |---|---|---|
@@ -66,16 +66,12 @@
 | 🆕 **Smarsh** | **Solutions Engineer** (United States, remote). Compliance/archiving SaaS SE; remote US role posted today. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368373425) |
 | **AuthZed** | **Solutions Engineer — U.S. Based** (remote). Authorization/infrastructure SaaS SE. $130K–$160K. US-wide remote. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-u-s-based-at-authzed-4416954072) |
 | **BeyondTrust** | **Inside Solutions Engineer — Remote** (United States). Remote presales for privileged access/security; inside SE model good for earlier career. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/inside-solutions-engineer-remote-at-beyondtrust-4413164520) |
-| **Bitwarden** | **Solutions Engineer** (United States, remote). B2B password management SE; customer-facing demos and technical sales support. Posted ~2 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-bitwarden-4402492054) |
 | **Bretton AI** | **Solutions Engineer** (United States, remote). AI-focused SE; demo and technical discovery for AI platform buyers. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-bretton-ai-4388512610) |
-| **cplace** | **PreSales Solution Engineer — US Remote**. Project/portfolio management SaaS presales; US remote. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-solution-engineer-us-remote-at-cplace-4427321715) |
 | **Cync Software** | **Solution Engineer — Fintech, Lending** (Herndon, VA, on-site). Explicitly targets **0–2 years**; CS/finance degree. Run discovery, configure demos, handle technical objections for commercial lending SaaS on AWS. AI-powered credit analytics. Pre-sales launchpad role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-engineer-fintech-lending-at-cync-software-4405957435) |
-| **Descope** | **Solutions Engineer** (United States, remote). Auth/identity SaaS SE; posted ~2 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-descope-4433852602) |
 | **Drata** | **Partner Solutions Engineer** (United States, remote). Compliance/security platform; partner-facing SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-drata-4419673034) |
 | **Feathery** | **Solutions Engineer** (United States, remote). AI form/product company; SE role posted ~4 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-feathery-4432459983) |
 | **Guidehouse** | **Consultant — AI & Data, Defense & Security — Campus 2026** (McLean/Arlington, VA). Campus/new grad consulting; AI + defense vertical. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/consultant-ai-data-defense-security-campus-2026-at-guidehouse-4434034907) |
 | **IBM** | **Customer Success Engineer — Entry Level Sales Program 2026** (McLean, VA). Entry-level IBM Global Sales track. Deliver technical proof points (demos, POCs, workshops, MVPs); develop customer success plans; drive product adoption. Pay ~$92K–$138K. Strong match for your POC experience. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/customer-success-engineer-entry-level-sales-program-2026-at-ibm-4427386901) |
-| **Redpanda Data** | **Solutions Engineer** (United States, remote). Streaming data platform SE; cloud-native buyer conversations. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4404482220) |
 | **Tailscale** | **Solutions Engineer — Commercial (Expansion Sales)** (United States, remote). Networking/security SaaS; commercial SE track. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-commercial-expansion-sales-at-tailscale-4397579243) |
 | **Workbrew** | **Solutions Engineer** (United States, remote). Developer-tools SE; remote US posting. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-workbrew-4434009841) |
 
@@ -131,7 +127,6 @@
 | **Dynatrace** | **Solutions Engineer — Strategic Accounts (Remote, Texas)** (Dallas, TX). Observability SE; Texas remote territory. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-strategic-accounts-remote-texas-at-dynatrace-4420627047) |
 | **Dynatrace** | **Solutions Engineer (Remote — Texas)** (Houston, TX). Same observability presales motion. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-remote-texas-at-dynatrace-4404679398) |
 | **SHI International** | **Solutions Engineer — Global** (Texas, United States). Data center/cloud presales; Nutanix, Azure, AWS in stack. 3–5 yrs — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-global-at-shi-international-corp-4414034479) |
-| **SolarWinds** | **Solutions Architect** (Austin, TX). Infrastructure monitoring presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432246676) |
 
 ### Raleigh / Charlotte (Red Hat corridor)
 
@@ -139,8 +134,6 @@
 |---|---|---|
 | **Barracuda** | **Solutions Architect (Pre-Sales Engineer)** (North Carolina, United States). Security SaaS presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-pre-sales-engineer-at-barracuda-4427036946) |
 | **Dexian** | **Pre Sales Solution Architect** (Charlotte, NC). IT staffing/channel presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solution-architect-at-dexian-4429353574) |
-| **MaintainX** | **Integrations Consultant** (Raleigh, NC). Customer-facing technical consultant; presales-adjacent integrations. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/integrations-consultant-at-maintainx-4429753185) |
-| **SolarWinds** | **Solutions Architect** (Charlotte, NC). Presales SA; Southeast hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432239684) |
 
 ### San Francisco Bay Area
 
@@ -201,7 +194,6 @@
 | 🆕 **ChapsVision** | **Solutions Engineer II (US — Remote)** (United States). Enterprise AI search (Sinequa); GenAI/RAG focus; 5+ YOE. Stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-ii-us-remote-at-chapsvision-4418504267) |
 | 🆕 **Experian** | **Solution Engineer — Remote** (United States). Bureau Composer / AI decisioning platform; 5+ YOE, $100K–$174K. Stretch — save unless you meet bar. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-engineer-remote-at-experian-4430122154) |
 | 🆕 **Qualcomm** | **Pre-Sales Solution Engineer (U.S. Remote)** (Boxborough, MA / US remote). Edge AI / Edge Impulse ML presales; 4+ YOE. Stretch role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solution-engineer-u-s-remote-work-eligible-at-qualcomm-4399644129) |
-| **MongoDB** | **Advisory Pre-Sales Solutions Architect** (United States). Data/vector search presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/advisory-pre-sales-solutions-architect-at-mongodb-4261070318) |
 | **Red Hat** | **Solution Architect** (United States). OpenShift/hybrid cloud SA at Red Hat HQ corridor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-architect-at-red-hat-4432862212) |
 | **SHI International** | **ASG Presales Solutions Engineer — Identity** (New York / remote). Identity security presales; 3–5+ yrs presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/asg-presales-solutions-engineer-identity-at-shi-international-corp-4355785848) |
 | **World Wide Technology** | **AI Solutions Architect — East Region** (NYC metro). Technical presales + ATC POC coordination. Requires **10+ yrs**. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-solutions-architect-east-region-at-world-wide-technology-4410867759) |
@@ -215,6 +207,7 @@
 |---|---:|---:|---:|
 | 2026-06-28 | 0 | — | 69 |
 | 2026-07-03 | 27 | 69 | 96 |
+| 2026-07-03 | — | — | 88 |
 
 ---
 

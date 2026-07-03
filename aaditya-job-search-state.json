@@ -20,15 +20,6 @@
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
     },
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-bitwarden-4402492054": {
-      "company": "Bitwarden",
-      "description": "**Solutions Engineer** (United States, remote). B2B password management SE; customer-facing demos and technical sales support. Posted ~2 days ago.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-bitwarden-4402492054",
-      "section": "apply_first",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
     "https://www.linkedin.com/jobs/view/solutions-engineer-u-s-based-at-authzed-4416954072": {
       "company": "AuthZed",
       "description": "**Solutions Engineer — U.S. Based** (remote). Authorization/infrastructure SaaS SE. $130K–$160K. US-wide remote.",
@@ -74,15 +65,6 @@
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
     },
-    "https://www.linkedin.com/jobs/view/presales-solution-engineer-us-remote-at-cplace-4427321715": {
-      "company": "cplace",
-      "description": "**PreSales Solution Engineer — US Remote**. Project/portfolio management SaaS presales; US remote.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/presales-solution-engineer-us-remote-at-cplace-4427321715",
-      "section": "apply_first",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
     "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-expansion-sales-at-tailscale-4397579243": {
       "company": "Tailscale",
       "description": "**Solutions Engineer — Commercial (Expansion Sales)** (United States, remote). Networking/security SaaS; commercial SE track.",
@@ -97,24 +79,6 @@
       "description": "**Partner Solutions Engineer** (United States, remote). Compliance/security platform; partner-facing SE.",
       "link_text": "Apply on LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-drata-4419673034",
-      "section": "apply_first",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-descope-4433852602": {
-      "company": "Descope",
-      "description": "**Solutions Engineer** (United States, remote). Auth/identity SaaS SE; posted ~2 days ago.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-descope-4433852602",
-      "section": "apply_first",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
-    "https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4404482220": {
-      "company": "Redpanda Data",
-      "description": "**Solutions Engineer** (United States, remote). Streaming data platform SE; cloud-native buyer conversations.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-redpanda-data-4404482220",
       "section": "apply_first",
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
@@ -353,15 +317,6 @@
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
     },
-    "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432246676": {
-      "company": "SolarWinds",
-      "description": "**Solutions Architect** (Austin, TX). Infrastructure monitoring presales.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432246676",
-      "section": "hub_austin",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
     "https://www.linkedin.com/jobs/view/solutions-architect-at-avathon-4396391433": {
       "company": "Avathon",
       "description": "**Solutions Architect** (Austin, TX). AI/industrial tech presales in Austin hub.",
@@ -377,24 +332,6 @@
       "link_text": "Apply on LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/digital-support-intelligent-automation-solutions-engineer-at-autodesk-4433235851",
       "section": "hub_austin",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
-    "https://www.linkedin.com/jobs/view/integrations-consultant-at-maintainx-4429753185": {
-      "company": "MaintainX",
-      "description": "**Integrations Consultant** (Raleigh, NC). Customer-facing technical consultant; presales-adjacent integrations.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/integrations-consultant-at-maintainx-4429753185",
-      "section": "hub_raleigh",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
-    "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432239684": {
-      "company": "SolarWinds",
-      "description": "**Solutions Architect** (Charlotte, NC). Presales SA; Southeast hub.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/solutions-architect-at-solarwinds-4432239684",
-      "section": "hub_raleigh",
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
     },
@@ -610,15 +547,6 @@
       "description": "**Solution Architect** (United States). OpenShift/hybrid cloud SA at Red Hat HQ corridor.",
       "link_text": "Apply on LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/solution-architect-at-red-hat-4432862212",
-      "section": "stretch",
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-03"
-    },
-    "https://www.linkedin.com/jobs/view/advisory-pre-sales-solutions-architect-at-mongodb-4261070318": {
-      "company": "MongoDB",
-      "description": "**Advisory Pre-Sales Solutions Architect** (United States). Data/vector search presales.",
-      "link_text": "Apply on LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/advisory-pre-sales-solutions-architect-at-mongodb-4261070318",
       "section": "stretch",
       "first_seen": "2026-06-28",
       "last_seen": "2026-07-03"
@@ -882,6 +810,13 @@
       "searched_count": 96,
       "not_in_latest_search": 0,
       "total": 96
+    },
+    {
+      "date": "2026-07-03",
+      "action": "prune_closed",
+      "removed_count": 8,
+      "unknown_kept": 11,
+      "total": 88
     }
   ]
 }
