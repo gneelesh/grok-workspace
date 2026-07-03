@@ -3,17 +3,11 @@
 
 from __future__ import annotations
 
-import json
 import re
-import sys
 import time
-from pathlib import Path
+from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
-
-WORKSPACE = Path(__file__).resolve().parents[4]
-STATE_JSON = WORKSPACE / "aaditya-job-search-state.json"
-OUTPUT_MD = WORKSPACE / "aaditya-job-search-2026.md"
 
 # Strict closed signals only — avoid false positives from LinkedIn chrome/footer text.
 CLOSED_PATTERNS = [
@@ -83,58 +77,96 @@ def fetch_status(url: str, retries: int = 4) -> tuple[str, str, str]:
     return url, "unknown", last_reason
 
 
-def prune(dry_run: bool = False, delay_sec: float = 2.5) -> None:
-    sys.path.insert(0, str(Path(__file__).resolve().parent))
-    from job_search import load_state, save_state, render_markdown
+def prune_closed_jobs(
+    state: dict[str, Any],
+    *,
+    delay_sec: float = 2.0,
+    dry_run: bool = False,
+    verbose: bool = True,
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    """
+    Remove closed / not-accepting listings from state.
 
-    state = load_state()
+    Returns (updated_state, stats) where stats contains:
+      removed_count, unknown_kept, removed (list of {company, url, reason})
+    """
     jobs = state.get("jobs", {})
     urls = sorted(jobs.keys())
-    print(f"Checking {len(urls)} job URLs (delay {delay_sec}s)...")
+    if verbose:
+        print(f"Pruning closed listings: checking {len(urls)} URLs (delay {delay_sec}s)...")
 
-    closed_urls: list[str] = []
-    unknown_urls: list[str] = []
+    closed: list[tuple[str, str, str]] = []  # url, company, reason
+    unknown_count = 0
 
     for i, url in enumerate(urls, 1):
-        url, status, reason = fetch_status(url)
+        _, status, reason = fetch_status(url)
         company = jobs[url].get("company", "?")
-        print(f"[{i}/{len(urls)}] {status.upper()}: {company} — {reason}")
+        if verbose:
+            print(f"  [{i}/{len(urls)}] {status.upper()}: {company} — {reason}")
         if status == "closed":
-            closed_urls.append(url)
+            closed.append((url, company, reason))
         elif status == "unknown":
-            unknown_urls.append(url)
-        time.sleep(delay_sec)
+            unknown_count += 1
+        if delay_sec > 0:
+            time.sleep(delay_sec)
 
-    print(f"\nClosed: {len(closed_urls)} | Unknown (kept): {len(unknown_urls)}")
+    removed_records = [
+        {"company": company, "url": url, "reason": reason} for url, company, reason in closed
+    ]
 
-    if dry_run:
-        for u in closed_urls:
-            print(f"  REMOVE: {jobs[u]['company']}: {u}")
-        return
+    if not dry_run and closed:
+        for url, _, _ in closed:
+            del state["jobs"][url]
+        state.setdefault("run_history", []).append(
+            {
+                "date": state.get("last_run"),
+                "action": "prune_closed",
+                "removed_count": len(closed),
+                "unknown_kept": unknown_count,
+                "total": len(state["jobs"]),
+            }
+        )
 
-    for u in closed_urls:
-        del state["jobs"][u]
+    stats = {
+        "removed_count": len(closed),
+        "unknown_kept": unknown_count,
+        "removed": removed_records,
+        "total_after": len(state["jobs"]) if not dry_run else len(jobs) - len(closed),
+    }
 
-    state.setdefault("run_history", []).append(
-        {
-            "date": state.get("last_run"),
-            "action": "prune_closed",
-            "removed_count": len(closed_urls),
-            "unknown_kept": len(unknown_urls),
-            "total": len(state["jobs"]),
-        }
-    )
+    if verbose:
+        print(
+            f"Prune complete: {stats['removed_count']} removed, "
+            f"{stats['unknown_kept']} unverified (kept), "
+            f"{stats['total_after']} remain"
+        )
 
-    save_state(state)
-    OUTPUT_MD.write_text(render_markdown(state), encoding="utf-8")
-    print(f"Removed {len(closed_urls)} jobs. {len(state['jobs'])} remain.")
-    print(f"Updated {OUTPUT_MD}")
+    return state, stats
+
+
+def main() -> None:
+    import argparse
+    import sys
+    from pathlib import Path
+
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from job_search import OUTPUT_MD, load_state, render_markdown, save_state
+
+    parser = argparse.ArgumentParser(description="Prune closed job listings from state")
+    parser.add_argument("--dry-run", action="store_true", help="Report only; do not modify state")
+    parser.add_argument("--delay", type=float, default=2.0, help="Seconds between URL checks")
+    args = parser.parse_args()
+
+    state = load_state()
+    state, stats = prune_closed_jobs(state, delay_sec=args.delay, dry_run=args.dry_run)
+
+    if not args.dry_run and stats["removed_count"] > 0:
+        save_state(state)
+        OUTPUT_MD.write_text(render_markdown(state), encoding="utf-8")
+        print(f"Updated {OUTPUT_MD}")
+    elif not args.dry_run:
+        print("No closed listings found — state unchanged")
 
 
 if __name__ == "__main__":
-    dry = "--dry-run" in sys.argv
-    delay = 2.5
-    for arg in sys.argv[1:]:
-        if arg.startswith("--delay="):
-            delay = float(arg.split("=", 1)[1])
-    prune(dry_run=dry, delay_sec=delay)
+    main()

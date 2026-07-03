@@ -2,6 +2,13 @@
 
 Read `aaditya-job-search-queries.md` in workspace root for Boolean strings.
 
+## Daily sequence
+
+1. **Prune** — `python .grok/skills/presales-job-search/scripts/job_search.py prune`
+2. **Search** — all 4 passes below
+3. **Inbox** — write `aaditya-job-search-inbox.json` (pruned state + new jobs)
+4. **Merge + prune** — `python .grok/skills/presales-job-search/scripts/job_search.py merge --prune-after`
+
 ## Search passes (run all 4 each day)
 
 ### Pass 1 — LinkedIn remote (priority)
@@ -35,6 +42,8 @@ Search: `sales engineer presales solutions engineer cloud` on [monster.com/jobs]
 
 **Exclude:** Principal, Distinguished, Staff, Director, VP, BDR, SDR, pure AE, IT Support Engineer
 
+**Skip during search:** Postings showing "no longer accepting applications" — do not add to inbox.
+
 **Section assignment:**
 
 | Signal | section value |
@@ -54,7 +63,7 @@ Search: `sales engineer presales solutions engineer cloud` on [monster.com/jobs]
 
 ## Inbox JSON format
 
-Write ALL jobs found today to `aaditya-job-search-inbox.json`:
+Write ALL active jobs found today to `aaditya-job-search-inbox.json`:
 
 ```json
 {
@@ -75,12 +84,20 @@ Write ALL jobs found today to `aaditya-job-search-inbox.json`:
 - `url` is the unique key — use full LinkedIn/Monster job view URL
 - `description` = 1–3 sentences from posting (location, title, fit note)
 - Deduplicate by URL before writing inbox
-- Include BOTH previously known jobs (re-found today) AND new jobs in inbox — merge script updates `last_seen` for existing and marks new URLs with 🆕
+- Include jobs from **pruned state** (re-found today) AND new jobs
+- Do **not** include jobs removed by prune or found closed during search
 
 ## After search
 
 ```bash
-python .grok/skills/presales-job-search/scripts/job_search.py merge
+python .grok/skills/presales-job-search/scripts/job_search.py merge --prune-after
+```
+
+Prune-only (before search or standalone):
+
+```bash
+python .grok/skills/presales-job-search/scripts/job_search.py prune
+python .grok/skills/presales-job-search/scripts/job_search.py prune --dry-run
 ```
 
 Optional commit:

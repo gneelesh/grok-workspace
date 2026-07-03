@@ -372,7 +372,7 @@ def cmd_render() -> None:
     print(f"Rendered {OUTPUT_MD}")
 
 
-def cmd_merge(path: Path | None) -> None:
+def cmd_merge(path: Path | None, prune_after: bool = False, prune_delay: float = 2.0) -> None:
     inbox = path or JOBS_INBOX
     if not inbox.exists():
         print(f"ERROR: inbox not found: {inbox}", file=sys.stderr)
@@ -382,9 +382,37 @@ def cmd_merge(path: Path | None) -> None:
     data = json.loads(inbox.read_text(encoding="utf-8"))
     jobs = data if isinstance(data, list) else data.get("jobs", [])
     state = merge_jobs(jobs)
+    new_count = len([j for j in state["jobs"].values() if is_new_job(j, state["last_run"])])
+
+    prune_stats: dict[str, Any] | None = None
+    if prune_after:
+        from prune_closed import prune_closed_jobs
+
+        print("\n--- Post-merge prune ---")
+        state, prune_stats = prune_closed_jobs(state, delay_sec=prune_delay)
+        save_state(state)
+
     content = render_markdown(state)
     OUTPUT_MD.write_text(content, encoding="utf-8")
-    print(f"Updated {OUTPUT_MD} with {len([j for j in state['jobs'].values() if is_new_job(j, state['last_run'])])} new job(s)")
+    print(f"Updated {OUTPUT_MD} with {new_count} new job(s)")
+    if prune_stats:
+        print(f"Pruned {prune_stats['removed_count']} closed listing(s) after merge")
+
+
+def cmd_prune(delay: float = 2.0, dry_run: bool = False) -> dict[str, Any]:
+    from prune_closed import prune_closed_jobs
+
+    state = load_state()
+    if not state.get("jobs"):
+        print("No jobs in state — nothing to prune")
+        return {"removed_count": 0, "removed": [], "total_after": 0}
+
+    state, stats = prune_closed_jobs(state, delay_sec=delay, dry_run=dry_run)
+    if not dry_run:
+        save_state(state)
+        OUTPUT_MD.write_text(render_markdown(state), encoding="utf-8")
+        print(f"Updated {OUTPUT_MD}")
+    return stats
 
 
 def cmd_status() -> None:
@@ -404,6 +432,16 @@ def main() -> None:
 
     merge_p = sub.add_parser("merge", help="Merge inbox JSON and regenerate markdown")
     merge_p.add_argument("--inbox", type=Path, default=None)
+    merge_p.add_argument(
+        "--prune-after",
+        action="store_true",
+        help="After merge, remove closed / not-accepting listings",
+    )
+    merge_p.add_argument("--prune-delay", type=float, default=2.0, help="Seconds between URL checks")
+
+    prune_p = sub.add_parser("prune", help="Remove closed / not-accepting listings from state")
+    prune_p.add_argument("--dry-run", action="store_true", help="Report only; do not modify state")
+    prune_p.add_argument("--delay", type=float, default=2.0, help="Seconds between URL checks")
 
     args = parser.parse_args()
 
@@ -413,7 +451,9 @@ def main() -> None:
     elif args.command == "render":
         cmd_render()
     elif args.command == "merge":
-        cmd_merge(args.inbox)
+        cmd_merge(args.inbox, prune_after=args.prune_after, prune_delay=args.prune_delay)
+    elif args.command == "prune":
+        cmd_prune(delay=args.delay, dry_run=args.dry_run)
     elif args.command == "status":
         cmd_status()
 
