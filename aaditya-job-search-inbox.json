@@ -1,5 +1,5 @@
 {
-  "search_date": "2026-07-03",
+  "search_date": "2026-07-04",
   "jobs": [
     {
       "company": "IBM",
@@ -614,6 +614,153 @@
       "company": "Monster listing",
       "description": "**Pre-Sales Engineer** (Washington, DC). Monster.com DC presales posting — verify on Monster.",
       "url": "https://www.monster.com/job-openings/pre-sales-engineer-washington-dc--c0b8202a-b40f-4aac-9c06-b99eebc44a1f",
+      "link_text": "Apply on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Kognitos",
+      "description": "**Sales Engineer** (United States, remote). AI automation platform SE; posted ~19 hours ago. Strong GenAI fit.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-kognitos-4436912715",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Scout Global",
+      "description": "**Sales Engineer** (San Francisco Bay Area). $160K–$185K; posted yesterday.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-scout-global-4429403068",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "Scout Global",
+      "description": "**Solutions Engineer** (New York, NY). Hub-city SE posting; ~1 day old.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429850553",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Spot AI",
+      "description": "**Solutions Engineer** (San Francisco, CA). Video-AI platform SE; posted ~5 days ago.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-spot-ai-4433634408",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "Estuary",
+      "description": "**Solutions Engineer** (United States, remote). Data integration / real-time pipelines SE; remote US.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-estuary-4427553012",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Wand AI",
+      "description": "**Customer Solutions Engineer** (Palo Alto, CA). AI agent platform; customer-facing technical role.",
+      "url": "https://www.linkedin.com/jobs/view/customer-solutions-engineer-at-wand-ai-4418272418",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Arize AI",
+      "description": "**AI Sales Engineer, US** (San Francisco, CA). LLM observability presales; GenAI platform SE.",
+      "url": "https://www.linkedin.com/jobs/view/ai-sales-engineer-us-at-arize-ai-4420442770",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Arize AI",
+      "description": "**AI Sales Engineer, Digital Native** (San Francisco, CA). GenAI observability presales; 3+ YOE, $180K–$220K.",
+      "url": "https://www.linkedin.com/jobs/view/ai-sales-engineer-digital-native-at-arize-ai-4425678242",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Nutanix",
+      "description": "**Systems Sales Engineer** (Newark, NJ). Hybrid NYC metro; data-center presales. 5+ YOE — stretch.",
+      "url": "https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425942267",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Nutanix",
+      "description": "**Systems Sales Engineer** (New York, NY). Nutanix hybrid-cloud presales; NYC hub. 5+ YOE — stretch.",
+      "url": "https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425941325",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Red Hat",
+      "description": "**Automation Sales Specialist** (United States). OpenShift/automation presales at Red Hat.",
+      "url": "https://www.linkedin.com/jobs/view/automation-sales-specialist-at-red-hat-4416306930",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "Red Hat",
+      "description": "**Application Platform Sales Specialist** (United States). Red Hat app-platform technical sales.",
+      "url": "https://www.linkedin.com/jobs/view/application-platform-sales-specialist-at-red-hat-4431464532",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "Cisco",
+      "description": "**Pre-Sales Solutions Engineer — Oracle** (United States). Oracle/OCI presales via Cisco partner motion.",
+      "url": "https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-oracle-at-cisco-4416359965",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "World Wide Technology",
+      "description": "**Vertical Systems Engineer — Global Accounts** (New York City metro). WWT channel presales for global accounts.",
+      "url": "https://www.linkedin.com/jobs/view/vertical-systems-engineer-global-accounts-at-world-wide-technology-4429361718",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "Silverfort",
+      "description": "**Sales Engineer — NYC** (New York, NY). Identity-security presales; posted ~6 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-nyc-at-silverfort-4376730815",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Assembled",
+      "description": "**Sales Engineer** (New York, NY). Workforce-AI platform SE in NYC hub.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-assembled-4424656219",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Canary Technologies",
+      "description": "**Sales Engineer** (New York, NY). Hospitality-tech presales; posted ~3 days ago.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-canary-technologies-4435809477",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Monster listing",
+      "description": "**Sales Engineer / Pre-Sales** (United States). Monster.com posting — verify on Monster.",
+      "url": "https://www.monster.com/job-openings/sales-engineer-pre-sales--8f1877ec-7064-4bfb-bdf3-922004914edc",
+      "link_text": "Apply on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Monster listing",
+      "description": "**Solutions Sales Engineer — Remote** (Hoboken, NJ). Monster.com remote NJ presales — verify on Monster.",
+      "url": "https://www.monster.com/job-openings/solutions-sales-engineer-remote-hoboken-nj--51fa435c-ed01-4c45-8074-5ca95e74d236",
+      "link_text": "Apply on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Monster listing",
+      "description": "**Pre-Sales Solutions Engineer — AV/IT** (Charlotte, NC). Monster.com Charlotte hub — verify on Monster.",
+      "url": "https://www.monster.com/job-openings/pre-sales-solutions-engineer-av-it-charlotte-nc-charlotte-nc--8d9383c8-506b-42e0-8356-46f7c5bbaf49",
+      "link_text": "Apply on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Monster listing",
+      "description": "**Strategic Accounts Sales Engineer — Remote** (Denver, CO). Monster.com remote West presales — verify on Monster.",
+      "url": "https://www.monster.com/job-openings/strategic-accounts-sales-engineer-remote-denver-co--67af618d-4e08-4e2d-9c0c-347aa746e0ca",
       "link_text": "Apply on Monster",
       "section": "monster"
     }
