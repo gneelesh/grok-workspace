@@ -1,5 +1,5 @@
 {
-  "search_date": "2026-07-04",
+  "search_date": "2026-07-06",
   "jobs": [
     {
       "company": "IBM",
@@ -763,6 +763,209 @@
       "url": "https://www.monster.com/job-openings/strategic-accounts-sales-engineer-remote-denver-co--67af618d-4e08-4e2d-9c0c-347aa746e0ca",
       "link_text": "Apply on Monster",
       "section": "monster"
+    },
+    {
+      "company": "Nutanix",
+      "description": "**Systems Sales Engineer** (Atlanta, GA, remote). Customer-facing technical sales; discovery workshops, POCs, solution sizing for enterprise cloud. Pay approx. 166K–248K. 3+ YOE bar — stretch unless you lean on POC delivery.",
+      "url": "https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4420632811",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_atlanta"
+    },
+    {
+      "company": "IBM",
+      "description": "**Storage Client Solutions Engineer** (Austin, TX). IBM storage presales; client-facing technical sales for hybrid cloud storage solutions. Non-Big-3 hyperscaler track.",
+      "url": "https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423654894",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_austin"
+    },
+    {
+      "company": "IBM",
+      "description": "**Storage Client Solutions Engineer** (Durham, NC). IBM storage presales in Red Hat corridor; technical discovery and solution design for enterprise clients.",
+      "url": "https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423669028",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_raleigh"
+    },
+    {
+      "company": "Nutanix",
+      "description": "**Service Providers Sales Systems Engineer** (Dallas, TX). Nutanix presales for service provider accounts; technical selling in Texas hub.",
+      "url": "https://www.linkedin.com/jobs/view/service-providers-sales-systems-engineer-at-nutanix-4434647963",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_austin"
+    },
+    {
+      "company": "Convey",
+      "description": "**Presales Engineer** (Denver, CO). Remote-friendly presales role posted ~1 week ago; customer-facing technical selling.",
+      "url": "https://www.linkedin.com/jobs/view/presales-engineer-at-convey-4413180606",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_boston"
+    },
+    {
+      "company": "LMRE",
+      "description": "**Solutions Engineer** (New York, United States). Fresh posting (~2 hours ago); customer-facing SE role in NYC hub.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-lmre-4433929623",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Harness",
+      "description": "**Sales Engineer — Los Angeles** (Los Angeles, CA). DevOps/CI-CD platform presales; posted ~23 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-los-angeles-at-harness-4414360459",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "NexusOne",
+      "description": "**Sales Engineer** (Atlanta, GA). Composable intelligence / AI infrastructure SE; early applicant window.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-nexusone-4434020657",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_atlanta"
+    },
+    {
+      "company": "WRITER",
+      "description": "**AI Deployment Engineer (Central)** (Chicago, IL). GenAI enterprise deployment / customer engineering; actively hiring, posted ~10 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/ai-deployment-engineer-central-at-writer-4437124742",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "LangChain",
+      "description": "**Deployed Engineer (Charlotte)** (Charlotte, NC). LLM/agent platform customer engineering; strong GenAI profile match.",
+      "url": "https://www.linkedin.com/jobs/view/deployed-engineer-charlotte-at-langchain-4387744656",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Cayuse",
+      "description": "**AI Solution Engineer** (Chicago, IL). AI platform presales / solution engineering in Chicago hub.",
+      "url": "https://www.linkedin.com/jobs/view/ai-solution-engineer-at-cayuse-4436170208",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "SHI International",
+      "description": "**Solutions Engineer — Commercial** (Austin, TX). Channel partner presales; commercial SE track at SHI.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-shi-international-corp-4422754081",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "Commvault",
+      "description": "**Sales Engineer** (Washington, DC). Data protection / backup presales; non-Big-3 vendor ecosystem.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-commvault-4425533076",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
+    },
+    {
+      "company": "Sectigo",
+      "description": "**Sales Engineer** (Chicago, IL). Certificate/security presales in Chicago hub; early applicant.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430455878",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_chicago"
+    },
+    {
+      "company": "Sectigo",
+      "description": "**Sales Engineer** (Atlanta, GA). Certificate/security presales in Atlanta hub; early applicant.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430470380",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_atlanta"
+    },
+    {
+      "company": "Scout Global",
+      "description": "**Solutions Engineer** (San Francisco, CA). Fresh posting (~4 hours ago); customer-facing SE in Bay Area.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429858497",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "Varonis",
+      "description": "**Inside Sales Engineer** (Morrisville, NC). Remote inside presales for data security; good earlier-career SE model.",
+      "url": "https://www.linkedin.com/jobs/view/inside-sales-engineer-at-varonis-4375857517",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_raleigh"
+    },
+    {
+      "company": "Deepgram",
+      "description": "**Pre-Sales Solutions Engineer** (San Francisco, CA). Speech/AI API presales; GenAI-adjacent technical selling.",
+      "url": "https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-san-francisco-ca-at-deepgram-4401174422",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Scout Global",
+      "description": "**Forward Deployed Engineer** (New York City Metropolitan Area). AI customer engineering / deployment role; posted ~4 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-scout-global-4431550324",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Clear Point Consultants",
+      "description": "**AI Enablement Lead / Forward Deployed Engineer** (Alpharetta, GA). GenAI customer enablement and deployment; Atlanta metro.",
+      "url": "https://www.linkedin.com/jobs/view/ai-enablement-lead-forward-deployed-engineer-at-clear-point-consultants-4436761063",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Workday",
+      "description": "**Solutions Engineer — Sana** (New York City Metropolitan Area). Workday AI (Sana) presales; enterprise GenAI solutions selling.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-sana-at-workday-4432702718",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Inworld AI",
+      "description": "**Founding AI Solutions Engineer** (Mountain View, CA). AI character/voice platform presales; founding-team SE role.",
+      "url": "https://www.linkedin.com/jobs/view/founding-ai-solutions-engineer-at-inworld-ai-4417536106",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "Codesearch AI",
+      "description": "**Forward Deployed Engineer (Founding)** (San Francisco Bay Area). AI code-search startup; founding FDE posted ~1 hour ago.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-founding-at-codesearch-ai-4437161660",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_genai"
+    },
+    {
+      "company": "F5",
+      "description": "**Solutions Engineer II** (Ault Field, WA / remote-friendly). Application delivery/security SE; mid-level presales.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-ii-at-f5-4427153855",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Torq",
+      "description": "**Sales Engineer, Bay Area** (San Francisco Bay Area). Security automation presales; posted ~4 days ago.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-bay-area-at-torq-4398011983",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "Commvault",
+      "description": "**Commercial Sales Engineer** (San Francisco, CA). Commercial-track data protection presales.",
+      "url": "https://www.linkedin.com/jobs/view/commercial-sales-engineer-at-commvault-4387134892",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_sf"
+    },
+    {
+      "company": "Vantage",
+      "description": "**Sales Engineer** (New York, NY). Cloud cost/finops presales; NYC hub listing.",
+      "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-vantage-4424129408",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "Coralogix",
+      "description": "**Solutions Engineer (Pre-Sales)** (New York, United States). Observability platform presales; posted ~19 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418605040",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_nyc"
+    },
+    {
+      "company": "World Wide Technology",
+      "description": "**Vertical Systems Engineer — Industrial & Business Services** (Atlanta, GA). WWT channel partner SE; posted ~21 hours ago.",
+      "url": "https://www.linkedin.com/jobs/view/vertical-systems-engineer-industrial-business-services-at-world-wide-technology-4396383758",
+      "link_text": "Apply on LinkedIn",
+      "section": "channel_partners"
     }
   ]
 }

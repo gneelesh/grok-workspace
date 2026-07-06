@@ -1,9 +1,9 @@
 # Aaditya Ghosalkar — Job Search Results (2026)
 
-**Last updated:** 2026-07-04  
-**Previous run:** 2026-07-03  
-**Total tracked:** 109  
-**New this run:** 21  
+**Last updated:** 2026-07-06  
+**Previous run:** 2026-07-04  
+**Total tracked:** 138  
+**New this run:** 29  
 
 **Profile:** ~2 YOE · UVA CS · AWS SAA + AI Practitioner · GenAI/POC delivery · Open to relocate US-wide  
 **Search scope:** LinkedIn + Monster · US hubs + Remote  
@@ -13,33 +13,41 @@
 
 ---
 
-## 🆕 What's new — 2026-07-04
+## 🆕 What's new — 2026-07-06
 
-**21 new posting(s)** since previous run (2026-07-03).
+**29 new posting(s)** since previous run (2026-07-04).
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Arize AI** | **AI Sales Engineer, US** (San Francisco, CA). LLM observability presales; GenAI platform SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-us-at-arize-ai-4420442770) |
-| 🆕 **Arize AI** | **AI Sales Engineer, Digital Native** (San Francisco, CA). GenAI observability presales; 3+ YOE, $180K–$220K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-digital-native-at-arize-ai-4425678242) |
-| 🆕 **Assembled** | **Sales Engineer** (New York, NY). Workforce-AI platform SE in NYC hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-assembled-4424656219) |
-| 🆕 **Canary Technologies** | **Sales Engineer** (New York, NY). Hospitality-tech presales; posted ~3 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-canary-technologies-4435809477) |
-| 🆕 **Cisco** | **Pre-Sales Solutions Engineer — Oracle** (United States). Oracle/OCI presales via Cisco partner motion. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-oracle-at-cisco-4416359965) |
-| 🆕 **Estuary** | **Solutions Engineer** (United States, remote). Data integration / real-time pipelines SE; remote US. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-estuary-4427553012) |
-| 🆕 **Kognitos** | **Sales Engineer** (United States, remote). AI automation platform SE; posted ~19 hours ago. Strong GenAI fit. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-kognitos-4436912715) |
-| 🆕 **Monster listing** | **Sales Engineer / Pre-Sales** (United States). Monster.com posting — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/sales-engineer-pre-sales--8f1877ec-7064-4bfb-bdf3-922004914edc) |
-| 🆕 **Monster listing** | **Solutions Sales Engineer — Remote** (Hoboken, NJ). Monster.com remote NJ presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/solutions-sales-engineer-remote-hoboken-nj--51fa435c-ed01-4c45-8074-5ca95e74d236) |
-| 🆕 **Monster listing** | **Pre-Sales Solutions Engineer — AV/IT** (Charlotte, NC). Monster.com Charlotte hub — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/pre-sales-solutions-engineer-av-it-charlotte-nc-charlotte-nc--8d9383c8-506b-42e0-8356-46f7c5bbaf49) |
-| 🆕 **Monster listing** | **Strategic Accounts Sales Engineer — Remote** (Denver, CO). Monster.com remote West presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/strategic-accounts-sales-engineer-remote-denver-co--67af618d-4e08-4e2d-9c0c-347aa746e0ca) |
-| 🆕 **Nutanix** | **Systems Sales Engineer** (Newark, NJ). Hybrid NYC metro; data-center presales. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425942267) |
-| 🆕 **Nutanix** | **Systems Sales Engineer** (New York, NY). Nutanix hybrid-cloud presales; NYC hub. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425941325) |
-| 🆕 **Red Hat** | **Automation Sales Specialist** (United States). OpenShift/automation presales at Red Hat. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/automation-sales-specialist-at-red-hat-4416306930) |
-| 🆕 **Red Hat** | **Application Platform Sales Specialist** (United States). Red Hat app-platform technical sales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/application-platform-sales-specialist-at-red-hat-4431464532) |
-| 🆕 **Scout Global** | **Sales Engineer** (San Francisco Bay Area). $160K–$185K; posted yesterday. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-scout-global-4429403068) |
-| 🆕 **Scout Global** | **Solutions Engineer** (New York, NY). Hub-city SE posting; ~1 day old. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429850553) |
-| 🆕 **Silverfort** | **Sales Engineer — NYC** (New York, NY). Identity-security presales; posted ~6 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-nyc-at-silverfort-4376730815) |
-| 🆕 **Spot AI** | **Solutions Engineer** (San Francisco, CA). Video-AI platform SE; posted ~5 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-spot-ai-4433634408) |
-| 🆕 **Wand AI** | **Customer Solutions Engineer** (Palo Alto, CA). AI agent platform; customer-facing technical role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/customer-solutions-engineer-at-wand-ai-4418272418) |
-| 🆕 **World Wide Technology** | **Vertical Systems Engineer — Global Accounts** (New York City metro). WWT channel presales for global accounts. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/vertical-systems-engineer-global-accounts-at-world-wide-technology-4429361718) |
+| 🆕 **Cayuse** | **AI Solution Engineer** (Chicago, IL). AI platform presales / solution engineering in Chicago hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-solution-engineer-at-cayuse-4436170208) |
+| 🆕 **Clear Point Consultants** | **AI Enablement Lead / Forward Deployed Engineer** (Alpharetta, GA). GenAI customer enablement and deployment; Atlanta metro. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-enablement-lead-forward-deployed-engineer-at-clear-point-consultants-4436761063) |
+| 🆕 **Codesearch AI** | **Forward Deployed Engineer (Founding)** (San Francisco Bay Area). AI code-search startup; founding FDE posted ~1 hour ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-founding-at-codesearch-ai-4437161660) |
+| 🆕 **Commvault** | **Sales Engineer** (Washington, DC). Data protection / backup presales; non-Big-3 vendor ecosystem. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-commvault-4425533076) |
+| 🆕 **Commvault** | **Commercial Sales Engineer** (San Francisco, CA). Commercial-track data protection presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/commercial-sales-engineer-at-commvault-4387134892) |
+| 🆕 **Convey** | **Presales Engineer** (Denver, CO). Remote-friendly presales role posted ~1 week ago; customer-facing technical selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-engineer-at-convey-4413180606) |
+| 🆕 **Coralogix** | **Solutions Engineer (Pre-Sales)** (New York, United States). Observability platform presales; posted ~19 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418605040) |
+| 🆕 **Deepgram** | **Pre-Sales Solutions Engineer** (San Francisco, CA). Speech/AI API presales; GenAI-adjacent technical selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-san-francisco-ca-at-deepgram-4401174422) |
+| 🆕 **F5** | **Solutions Engineer II** (Ault Field, WA / remote-friendly). Application delivery/security SE; mid-level presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-ii-at-f5-4427153855) |
+| 🆕 **Harness** | **Sales Engineer — Los Angeles** (Los Angeles, CA). DevOps/CI-CD platform presales; posted ~23 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-los-angeles-at-harness-4414360459) |
+| 🆕 **IBM** | **Storage Client Solutions Engineer** (Austin, TX). IBM storage presales; client-facing technical sales for hybrid cloud storage solutions. Non-Big-3 hyperscaler track. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423654894) |
+| 🆕 **IBM** | **Storage Client Solutions Engineer** (Durham, NC). IBM storage presales in Red Hat corridor; technical discovery and solution design for enterprise clients. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423669028) |
+| 🆕 **Inworld AI** | **Founding AI Solutions Engineer** (Mountain View, CA). AI character/voice platform presales; founding-team SE role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/founding-ai-solutions-engineer-at-inworld-ai-4417536106) |
+| 🆕 **LangChain** | **Deployed Engineer (Charlotte)** (Charlotte, NC). LLM/agent platform customer engineering; strong GenAI profile match. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/deployed-engineer-charlotte-at-langchain-4387744656) |
+| 🆕 **LMRE** | **Solutions Engineer** (New York, United States). Fresh posting (~2 hours ago); customer-facing SE role in NYC hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-lmre-4433929623) |
+| 🆕 **NexusOne** | **Sales Engineer** (Atlanta, GA). Composable intelligence / AI infrastructure SE; early applicant window. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-nexusone-4434020657) |
+| 🆕 **Nutanix** | **Systems Sales Engineer** (Atlanta, GA, remote). Customer-facing technical sales; discovery workshops, POCs, solution sizing for enterprise cloud. Pay approx. 166K–248K. 3+ YOE bar — stretch unless you lean on POC delivery. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4420632811) |
+| 🆕 **Nutanix** | **Service Providers Sales Systems Engineer** (Dallas, TX). Nutanix presales for service provider accounts; technical selling in Texas hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/service-providers-sales-systems-engineer-at-nutanix-4434647963) |
+| 🆕 **Scout Global** | **Solutions Engineer** (San Francisco, CA). Fresh posting (~4 hours ago); customer-facing SE in Bay Area. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429858497) |
+| 🆕 **Scout Global** | **Forward Deployed Engineer** (New York City Metropolitan Area). AI customer engineering / deployment role; posted ~4 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-scout-global-4431550324) |
+| 🆕 **Sectigo** | **Sales Engineer** (Chicago, IL). Certificate/security presales in Chicago hub; early applicant. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430455878) |
+| 🆕 **Sectigo** | **Sales Engineer** (Atlanta, GA). Certificate/security presales in Atlanta hub; early applicant. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430470380) |
+| 🆕 **SHI International** | **Solutions Engineer — Commercial** (Austin, TX). Channel partner presales; commercial SE track at SHI. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-shi-international-corp-4422754081) |
+| 🆕 **Torq** | **Sales Engineer, Bay Area** (San Francisco Bay Area). Security automation presales; posted ~4 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-bay-area-at-torq-4398011983) |
+| 🆕 **Vantage** | **Sales Engineer** (New York, NY). Cloud cost/finops presales; NYC hub listing. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-vantage-4424129408) |
+| 🆕 **Varonis** | **Inside Sales Engineer** (Morrisville, NC). Remote inside presales for data security; good earlier-career SE model. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/inside-sales-engineer-at-varonis-4375857517) |
+| 🆕 **Workday** | **Solutions Engineer — Sana** (New York City Metropolitan Area). Workday AI (Sana) presales; enterprise GenAI solutions selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-sana-at-workday-4432702718) |
+| 🆕 **World Wide Technology** | **Vertical Systems Engineer — Industrial & Business Services** (Atlanta, GA). WWT channel partner SE; posted ~21 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/vertical-systems-engineer-industrial-business-services-at-world-wide-technology-4396383758) |
+| 🆕 **WRITER** | **AI Deployment Engineer (Central)** (Chicago, IL). GenAI enterprise deployment / customer engineering; actively hiring, posted ~10 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-deployment-engineer-central-at-writer-4437124742) |
 
 ---
 
@@ -47,7 +55,7 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Estuary** | **Solutions Engineer** (United States, remote). Data integration / real-time pipelines SE; remote US. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-estuary-4427553012) |
+| 🆕 **F5** | **Solutions Engineer II** (Ault Field, WA / remote-friendly). Application delivery/security SE; mid-level presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-ii-at-f5-4427153855) |
 | **AuthZed** | **Solutions Engineer — U.S. Based** (remote). Authorization/infrastructure SaaS SE. $130K–$160K. US-wide remote. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-u-s-based-at-authzed-4416954072) |
 | **BeyondTrust** | **Inside Solutions Engineer — Remote** (United States). Remote presales for privileged access/security; inside SE model good for earlier career. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/inside-solutions-engineer-remote-at-beyondtrust-4413164520) |
 | **BeyondTrust** | **Solutions Engineer — Cloud, Remote** (United States). Remote presales for privileged-access/cloud security; posted within 24 hours. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-cloud-remote-at-beyondtrust-4413164520) |
@@ -57,6 +65,7 @@
 | **Diagrid** | **Solutions Engineer** (United States, remote). Cloud-native / Dapr platform SE; remote US posting, ~3 days old. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-diagrid-4434141174) |
 | **Drata** | **Partner Solutions Engineer** (United States, remote). Compliance/security platform; partner-facing SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/partner-solutions-engineer-at-drata-4419673034) |
 | **Dynatrace** | **Commercial Solutions Engineer (Remote, Midwest)** (Chicago, IL / CST remote). Entry-level presales track; demos, POCs, observability platform. $72K–$90K. No prior SE experience required — strong match for 0–3 YOE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/commercial-solutions-engineer-remote-midwest-at-dynatrace-4400612379) |
+| **Estuary** | **Solutions Engineer** (United States, remote). Data integration / real-time pipelines SE; remote US. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-estuary-4427553012) |
 | **Feathery** | **Solutions Engineer** (United States, remote). AI form/product company; SE role posted ~4 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-feathery-4432459983) |
 | **Guidehouse** | **Consultant — AI & Data, Defense & Security — Campus 2026** (McLean/Arlington, VA). Campus/new grad consulting; AI + defense vertical. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/consultant-ai-data-defense-security-campus-2026-at-guidehouse-4434034907) |
 | **Heidi** | **Pre-Sales Solutions Engineer — US** (United States, remote). Healthcare AI presales; US remote posting. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-us-at-heidi-4393261347) |
@@ -74,30 +83,40 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Cisco** | **Pre-Sales Solutions Engineer — Oracle** (United States). Oracle/OCI presales via Cisco partner motion. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-oracle-at-cisco-4416359965) |
-| 🆕 **Red Hat** | **Automation Sales Specialist** (United States). OpenShift/automation presales at Red Hat. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/automation-sales-specialist-at-red-hat-4416306930) |
-| 🆕 **Red Hat** | **Application Platform Sales Specialist** (United States). Red Hat app-platform technical sales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/application-platform-sales-specialist-at-red-hat-4431464532) |
-| 🆕 **World Wide Technology** | **Vertical Systems Engineer — Global Accounts** (New York City metro). WWT channel presales for global accounts. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/vertical-systems-engineer-global-accounts-at-world-wide-technology-4429361718) |
+| 🆕 **Commvault** | **Sales Engineer** (Washington, DC). Data protection / backup presales; non-Big-3 vendor ecosystem. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-commvault-4425533076) |
+| 🆕 **SHI International** | **Solutions Engineer — Commercial** (Austin, TX). Channel partner presales; commercial SE track at SHI. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-commercial-at-shi-international-corp-4422754081) |
+| 🆕 **World Wide Technology** | **Vertical Systems Engineer — Industrial & Business Services** (Atlanta, GA). WWT channel partner SE; posted ~21 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/vertical-systems-engineer-industrial-business-services-at-world-wide-technology-4396383758) |
 | **AHEAD** | **Specialist Solutions Engineer — Cloud Security** (United States). Cloud security presales at mid-size integrator. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/specialist-solutions-engineer-cloud-security-at-ahead-4418865123) |
 | **Arrow Electronics** | **Pre-Sales Solutions Architect — IBM** (Parsippany, NJ; fully remote). IBM Hybrid Cloud, OpenShift, Power presales through Arrow. Requires ~5 yrs — **stretch**; IBM ecosystem target. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413736882) |
 | **Arrow Electronics** | **Pre-Sales Solutions Architect — IBM** (Lincoln, NE; remote). Same IBM channel presales track; Midwest territory. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-architect-ibm-at-arrow-electronics-4413752005) |
+| **Cisco** | **Pre-Sales Solutions Engineer — Oracle** (United States). Oracle/OCI presales via Cisco partner motion. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-oracle-at-cisco-4416359965) |
 | **NetApp** | **Cloud Solutions Architect** (Southfield, MI). Storage/cloud presales; non-Big-3 infrastructure vendor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/cloud-solutions-architect-at-netapp-4430693512) |
 | **Nutanix** | **Service Providers Sales Systems Engineer** (Boston, MA). Nutanix hybrid-cloud presales in Boston corridor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/service-providers-sales-systems-engineer-at-nutanix-4419920167) |
+| **Red Hat** | **Automation Sales Specialist** (United States). OpenShift/automation presales at Red Hat. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/automation-sales-specialist-at-red-hat-4416306930) |
+| **Red Hat** | **Application Platform Sales Specialist** (United States). Red Hat app-platform technical sales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/application-platform-sales-specialist-at-red-hat-4431464532) |
 | **SHI International** | **Presales Solutions Engineer — Email Security** (US remote; may report Austin, TX). Customer-facing presales; discovery, demos, **PoC support**, hybrid/cloud security. Requires ~3+ yrs cybersecurity presales — **stretch** but strong title match. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-solutions-engineer-email-security-at-shi-international-corp-4417985589) |
 | **SHI International** | **Presales Solutions Engineer — Data Protection** (United States / Texas). VAR presales; data protection and backup solutions. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-solutions-engineer-data-protection-at-shi-international-corp-4411530159) |
 | **SHI International** | **Security Engineer — Google** (United States). Google Cloud security presales through SHI channel. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/security-engineer-google-at-shi-international-corp-4413112990) |
 | **SHI International** | **Associate Solutions Engineer — Enterprise** (Massachusetts). Channel-partner presales; associate-level enterprise SE at SHI. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/associate-solutions-engineer-enterprise-at-shi-international-corp-4411523437) |
 | **Softura** | **Presales Engineer** (Farmington Hills, MI). IT services presales; actively hiring. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-engineer-at-softura-4418865133) |
+| **World Wide Technology** | **Vertical Systems Engineer — Global Accounts** (New York City metro). WWT channel presales for global accounts. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/vertical-systems-engineer-global-accounts-at-world-wide-technology-4429361718) |
 
 ## AI / GenAI / data platform (profile differentiator)
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Arize AI** | **AI Sales Engineer, US** (San Francisco, CA). LLM observability presales; GenAI platform SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-us-at-arize-ai-4420442770) |
-| 🆕 **Arize AI** | **AI Sales Engineer, Digital Native** (San Francisco, CA). GenAI observability presales; 3+ YOE, $180K–$220K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-digital-native-at-arize-ai-4425678242) |
-| 🆕 **Kognitos** | **Sales Engineer** (United States, remote). AI automation platform SE; posted ~19 hours ago. Strong GenAI fit. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-kognitos-4436912715) |
-| 🆕 **Wand AI** | **Customer Solutions Engineer** (Palo Alto, CA). AI agent platform; customer-facing technical role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/customer-solutions-engineer-at-wand-ai-4418272418) |
+| 🆕 **Cayuse** | **AI Solution Engineer** (Chicago, IL). AI platform presales / solution engineering in Chicago hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-solution-engineer-at-cayuse-4436170208) |
+| 🆕 **Clear Point Consultants** | **AI Enablement Lead / Forward Deployed Engineer** (Alpharetta, GA). GenAI customer enablement and deployment; Atlanta metro. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-enablement-lead-forward-deployed-engineer-at-clear-point-consultants-4436761063) |
+| 🆕 **Codesearch AI** | **Forward Deployed Engineer (Founding)** (San Francisco Bay Area). AI code-search startup; founding FDE posted ~1 hour ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-founding-at-codesearch-ai-4437161660) |
+| 🆕 **Deepgram** | **Pre-Sales Solutions Engineer** (San Francisco, CA). Speech/AI API presales; GenAI-adjacent technical selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solutions-engineer-san-francisco-ca-at-deepgram-4401174422) |
+| 🆕 **Inworld AI** | **Founding AI Solutions Engineer** (Mountain View, CA). AI character/voice platform presales; founding-team SE role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/founding-ai-solutions-engineer-at-inworld-ai-4417536106) |
+| 🆕 **LangChain** | **Deployed Engineer (Charlotte)** (Charlotte, NC). LLM/agent platform customer engineering; strong GenAI profile match. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/deployed-engineer-charlotte-at-langchain-4387744656) |
+| 🆕 **Scout Global** | **Forward Deployed Engineer** (New York City Metropolitan Area). AI customer engineering / deployment role; posted ~4 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-scout-global-4431550324) |
+| 🆕 **Workday** | **Solutions Engineer — Sana** (New York City Metropolitan Area). Workday AI (Sana) presales; enterprise GenAI solutions selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-sana-at-workday-4432702718) |
+| 🆕 **WRITER** | **AI Deployment Engineer (Central)** (Chicago, IL). GenAI enterprise deployment / customer engineering; actively hiring, posted ~10 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-deployment-engineer-central-at-writer-4437124742) |
 | **Amentum** | **Solutions Architect — AI and Innovative Technologies** (Chantilly, VA). Gov/defense contractor; AI solutions presales. US Citizen asset. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-%E2%80%93-ai-and-innovative-technologies-2-at-amentum-4397368222) |
+| **Arize AI** | **AI Sales Engineer, US** (San Francisco, CA). LLM observability presales; GenAI platform SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-us-at-arize-ai-4420442770) |
+| **Arize AI** | **AI Sales Engineer, Digital Native** (San Francisco, CA). GenAI observability presales; 3+ YOE, $180K–$220K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-sales-engineer-digital-native-at-arize-ai-4425678242) |
 | **Baseten** | **Solution Architect (AI/LLM Inference)** (United States, remote). LLM inference platform; $165K–$330K. Direct LLM stack alignment. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-architect-ai-llm-inference-at-baseten-4412578921) |
 | **Databricks** | **Solutions Architect — Financial Services** (Washington, DC). Data/AI platform SA; stretch on tenure but strong GenAI fit. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-financial-services-asset-and-wealth-management-at-databricks-4433003672) |
 | **Deepnote** | **Sales Engineer / GTM** (United States, remote). Data/AI notebook platform GTM engineer; posted yesterday. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-gtm-at-deepnote-4436343831) |
@@ -105,9 +124,11 @@
 | **F5** | **Solutions Engineer — AI & Data Science Specialist** (United States). AI/data-focused SE at networking/app delivery vendor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-%E2%80%94-ai-data-science-specialist-at-f5-4375442187) |
 | **Hewlett Packard Enterprise** | **AI Architect Position (Pre-Sales)** (South Lyon, MI). HPE AI presales; non-Big-3 enterprise vendor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-architect-position-pre-sales-at-hewlett-packard-enterprise-4425491322) |
 | **Hewlett Packard Enterprise** | **AI Solution Engineer** (Texas, United States). HPE AI solution engineering / presales in Austin hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-solution-engineer-at-hewlett-packard-enterprise-4372172008) |
+| **Kognitos** | **Sales Engineer** (United States, remote). AI automation platform SE; posted ~19 hours ago. Strong GenAI fit. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-kognitos-4436912715) |
 | **Roboflow** | **Solutions Architect** (New York, NY / San Francisco, CA). Computer vision + AI platform presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-at-roboflow-4090855170) |
 | **ScoutLab.io** | **AI Solutions Architect** (remote). AI agent startup; $150K–$170K base + bonus. Series A; SE/SA hybrid for GenAI agents. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-solutions-architect-ai-agent-startup-series-a-%2422m-raised-in-last-5-months%21-%24150k-%24170k-base-salary-generous-bonus-remote-at-scoutlab-io-4428668913) |
 | **Sigma** | **Solution Engineer** (United States, remote). Cloud analytics / data-platform presales; strong AI/data angle for profile. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-engineer-at-sigma-4422771384) |
+| **Wand AI** | **Customer Solutions Engineer** (Palo Alto, CA). AI agent platform; customer-facing technical role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/customer-solutions-engineer-at-wand-ai-4418272418) |
 
 ## Hub city listings
 
@@ -115,20 +136,25 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Assembled** | **Sales Engineer** (New York, NY). Workforce-AI platform SE in NYC hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-assembled-4424656219) |
-| 🆕 **Canary Technologies** | **Sales Engineer** (New York, NY). Hospitality-tech presales; posted ~3 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-canary-technologies-4435809477) |
-| 🆕 **Scout Global** | **Solutions Engineer** (New York, NY). Hub-city SE posting; ~1 day old. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429850553) |
-| 🆕 **Silverfort** | **Sales Engineer — NYC** (New York, NY). Identity-security presales; posted ~6 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-nyc-at-silverfort-4376730815) |
+| 🆕 **Coralogix** | **Solutions Engineer (Pre-Sales)** (New York, United States). Observability platform presales; posted ~19 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418605040) |
+| 🆕 **LMRE** | **Solutions Engineer** (New York, United States). Fresh posting (~2 hours ago); customer-facing SE role in NYC hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-lmre-4433929623) |
+| 🆕 **Vantage** | **Sales Engineer** (New York, NY). Cloud cost/finops presales; NYC hub listing. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-vantage-4424129408) |
+| **Assembled** | **Sales Engineer** (New York, NY). Workforce-AI platform SE in NYC hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-assembled-4424656219) |
+| **Canary Technologies** | **Sales Engineer** (New York, NY). Hospitality-tech presales; posted ~3 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-canary-technologies-4435809477) |
 | **Coralogix** | **Solutions Engineer (Pre-Sales)** (New York area / Dallas / Miami). Observability platform presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418490527) |
 | **ePlus** | **Sr Solutions Architect** (New York, NY). Channel partner presales; cloud/security. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-solutions-architect-req%231028-at-eplus-inc-4371589208) |
 | **Pulumi** | **Solutions Architect** (San Francisco Bay Area / NYC). Infrastructure-as-code; presales SA. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-at-pulumi-4433891061) |
 | **Salesforce** | **Solution Engineer (Pre-Sales) — All Levels** (New York, NY). Explicit all-levels hiring; demos, discovery, executive presentations. Requires 4+ yrs listed — apply for junior band. $89K–$269K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-engineer-pre-sales-all-levels-at-salesforce-4336891351) |
+| **Scout Global** | **Solutions Engineer** (New York, NY). Hub-city SE posting; ~1 day old. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429850553) |
+| **Silverfort** | **Sales Engineer — NYC** (New York, NY). Identity-security presales; posted ~6 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-nyc-at-silverfort-4376730815) |
 | **Smarsh** | **Solutions Engineer** (New York, United States). Compliance/archiving SaaS SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368382286) |
 
 ### Austin / Texas / Dallas
 
 | company_name | job_description | link |
 |---|---|---|
+| 🆕 **IBM** | **Storage Client Solutions Engineer** (Austin, TX). IBM storage presales; client-facing technical sales for hybrid cloud storage solutions. Non-Big-3 hyperscaler track. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423654894) |
+| 🆕 **Nutanix** | **Service Providers Sales Systems Engineer** (Dallas, TX). Nutanix presales for service provider accounts; technical selling in Texas hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/service-providers-sales-systems-engineer-at-nutanix-4434647963) |
 | **Autodesk** | **Digital Support Intelligent Automation Solutions Engineer** (Texas, United States). Automation/AI solutions SE; multiple US states. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/digital-support-intelligent-automation-solutions-engineer-at-autodesk-4433235851) |
 | **Avathon** | **Solutions Architect** (Austin, TX). AI/industrial tech presales in Austin hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-at-avathon-4396391433) |
 | **Dynatrace** | **Solutions Engineer — Strategic Accounts (Remote, Texas)** (Dallas, TX). Observability SE; Texas remote territory. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-strategic-accounts-remote-texas-at-dynatrace-4420627047) |
@@ -139,6 +165,8 @@
 
 | company_name | job_description | link |
 |---|---|---|
+| 🆕 **IBM** | **Storage Client Solutions Engineer** (Durham, NC). IBM storage presales in Red Hat corridor; technical discovery and solution design for enterprise clients. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/storage-client-solutions-engineer-at-ibm-4423669028) |
+| 🆕 **Varonis** | **Inside Sales Engineer** (Morrisville, NC). Remote inside presales for data security; good earlier-career SE model. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/inside-sales-engineer-at-varonis-4375857517) |
 | **Barracuda** | **Solutions Architect (Pre-Sales Engineer)** (North Carolina, United States). Security SaaS presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-architect-pre-sales-engineer-at-barracuda-4427036946) |
 | **Dexian** | **Pre Sales Solution Architect** (Charlotte, NC). IT staffing/channel presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solution-architect-at-dexian-4429353574) |
 
@@ -146,17 +174,22 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Scout Global** | **Sales Engineer** (San Francisco Bay Area). $160K–$185K; posted yesterday. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-scout-global-4429403068) |
-| 🆕 **Spot AI** | **Solutions Engineer** (San Francisco, CA). Video-AI platform SE; posted ~5 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-spot-ai-4433634408) |
+| 🆕 **Commvault** | **Commercial Sales Engineer** (San Francisco, CA). Commercial-track data protection presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/commercial-sales-engineer-at-commvault-4387134892) |
+| 🆕 **Harness** | **Sales Engineer — Los Angeles** (Los Angeles, CA). DevOps/CI-CD platform presales; posted ~23 hours ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-los-angeles-at-harness-4414360459) |
+| 🆕 **Scout Global** | **Solutions Engineer** (San Francisco, CA). Fresh posting (~4 hours ago); customer-facing SE in Bay Area. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-scout-global-4429858497) |
+| 🆕 **Torq** | **Sales Engineer, Bay Area** (San Francisco Bay Area). Security automation presales; posted ~4 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-bay-area-at-torq-4398011983) |
 | **Algolia** | **Solutions Engineer** (United States, remote). Search/API platform SE; vector search relevant to AI apps. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-algolia-4428746676) |
 | **CoderPad** | **Solutions Engineer** (United States, remote; Bay Area company). Dev hiring platform SE; $160K–$210K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-coderpad-4410092514) |
 | **Dynatrace** | **Solutions Engineer (Remote — Bay Area)** (United States). Observability presales; Bay Area–aligned remote SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-remote-bay-area-at-dynatrace-4403416069) |
 | **NVIDIA** | **Senior Solutions Architect, AI Infrastructure** (Santa Clara / Austin). Stretch role; AI infra presales at major vendor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-solutions-architect-ai-infrastructure-at-nvidia-4413179423) |
+| **Scout Global** | **Sales Engineer** (San Francisco Bay Area). $160K–$185K; posted yesterday. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-scout-global-4429403068) |
+| **Spot AI** | **Solutions Engineer** (San Francisco, CA). Video-AI platform SE; posted ~5 days ago. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-spot-ai-4433634408) |
 
 ### Chicago
 
 | company_name | job_description | link |
 |---|---|---|
+| 🆕 **Sectigo** | **Sales Engineer** (Chicago, IL). Certificate/security presales in Chicago hub; early applicant. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430455878) |
 | **Box** | **Mid-Market Solutions Engineer** (Chicago, IL). Enterprise content cloud SE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/mid-market-solutions-engineer-at-box-4425610673) |
 | **Coralogix** | **Solutions Engineer (Pre-Sales)** (Dallas; also Midwest territories). | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-pre-sales-at-coralogix-4418485930) |
 | **Cyclotron** | **Security Solutions Architect** (Chicago, IL). Microsoft security partner presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/security-solutions-architect-at-cyclotron-inc-4425834928) |
@@ -165,6 +198,9 @@
 
 | company_name | job_description | link |
 |---|---|---|
+| 🆕 **NexusOne** | **Sales Engineer** (Atlanta, GA). Composable intelligence / AI infrastructure SE; early applicant window. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-nexusone-4434020657) |
+| 🆕 **Nutanix** | **Systems Sales Engineer** (Atlanta, GA, remote). Customer-facing technical sales; discovery workshops, POCs, solution sizing for enterprise cloud. Pay approx. 166K–248K. 3+ YOE bar — stretch unless you lean on POC delivery. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4420632811) |
+| 🆕 **Sectigo** | **Sales Engineer** (Atlanta, GA). Certificate/security presales in Atlanta hub; early applicant. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-sectigo-4430470380) |
 | **Box** | **Enterprise Solutions Engineer** (Atlanta, GA). Cloud content platform presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-at-box-4427572327) |
 | **HPE** | **Technical Architect — POC Lab** (Alpharetta, GA, on-site). **POC lab presales** — demos, workshops, proof-of-concepts. Requires 8+ yrs — stretch but ideal POC alignment. $81K–$187K. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/technical-architect-poc-lab-alpharetta-ga-at-hewlett-packard-enterprise-4417038349) |
 | **Smarsh** | **Solutions Engineer** (Atlanta, GA). | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-smarsh-4368373426) |
@@ -173,6 +209,7 @@
 
 | company_name | job_description | link |
 |---|---|---|
+| 🆕 **Convey** | **Presales Engineer** (Denver, CO). Remote-friendly presales role posted ~1 week ago; customer-facing technical selling. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/presales-engineer-at-convey-4413180606) |
 | **Cloudera** | **Solutions Engineer** (Massachusetts). Data-platform presales in Northeast hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-at-cloudera-4406238709) |
 | **Grafana Labs** | **Solutions Engineer — East or Central US — Remote** (United States). Observability SE; notes junior hires coming later — 5+ yrs preferred now. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-east-or-central-us-remote-at-grafana-labs-4388550765) |
 | **Harness** | **Sales Engineer** (Boston, MA). DevOps/CI-CD platform SE in Boston hub. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sales-engineer-at-harness-4413377166) |
@@ -184,10 +221,6 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Monster listing** | **Sales Engineer / Pre-Sales** (United States). Monster.com posting — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/sales-engineer-pre-sales--8f1877ec-7064-4bfb-bdf3-922004914edc) |
-| 🆕 **Monster listing** | **Solutions Sales Engineer — Remote** (Hoboken, NJ). Monster.com remote NJ presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/solutions-sales-engineer-remote-hoboken-nj--51fa435c-ed01-4c45-8074-5ca95e74d236) |
-| 🆕 **Monster listing** | **Pre-Sales Solutions Engineer — AV/IT** (Charlotte, NC). Monster.com Charlotte hub — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/pre-sales-solutions-engineer-av-it-charlotte-nc-charlotte-nc--8d9383c8-506b-42e0-8356-46f7c5bbaf49) |
-| 🆕 **Monster listing** | **Strategic Accounts Sales Engineer — Remote** (Denver, CO). Monster.com remote West presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/strategic-accounts-sales-engineer-remote-denver-co--67af618d-4e08-4e2d-9c0c-347aa746e0ca) |
 | **(Employer TBD)** | **Solutions Architect / Pre-Sales Engineer — East Coast US** (New York, NY). East coast presales architect posting on Monster. | [Apply on Monster](https://www.monster.com/job-openings/solutions-architect-pre-sales-engineer-east-coast-us-new-york-ny--e006cf8e-f3f4-46af-a722-50e71060998e) |
 | **(Employer TBD)** | **Solutions Engineer** (San Francisco, CA). Bay Area SE role aggregated on Monster. | [Apply on Monster](https://www.monster.com/job-openings/solutions-engineer-san-francisco-ca--d7bcb911-2446-49d6-b31c-edd6de7d084e) |
 | **(Employer TBD)** | **Sr. Solutions Presales Engineer** (San Francisco, CA). Senior presales; SF hub. **Stretch.** | [Apply on Monster](https://www.monster.com/job-openings/sr-solutions-presales-engineer-san-francisco-ca--d7565e26-a18e-4adf-b8bb-81964abf94db) |
@@ -198,16 +231,20 @@
 | **Monster listing** | **Strategic SaaS Sales Engineer — Remote USA East** (New York, NY). Monster.com remote East-coast SaaS SE. | [Apply on Monster](https://www.monster.com/job-openings/strategic-saas-sales-engineer-remote-usa-east-new-york-ny--5dfd62b9-c225-4b4f-b254-95e3ba8d9fba) |
 | **Monster listing** | **Sales Engineer** (Dallas, TX). Monster.com Dallas hub SE posting — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/sales-engineer-dallas-tx--d61ee65e-b721-4638-be96-180b81bb4ad2) |
 | **Monster listing** | **Pre-Sales Engineer** (Washington, DC). Monster.com DC presales posting — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/pre-sales-engineer-washington-dc--c0b8202a-b40f-4aac-9c06-b99eebc44a1f) |
+| **Monster listing** | **Sales Engineer / Pre-Sales** (United States). Monster.com posting — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/sales-engineer-pre-sales--8f1877ec-7064-4bfb-bdf3-922004914edc) |
+| **Monster listing** | **Solutions Sales Engineer — Remote** (Hoboken, NJ). Monster.com remote NJ presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/solutions-sales-engineer-remote-hoboken-nj--51fa435c-ed01-4c45-8074-5ca95e74d236) |
+| **Monster listing** | **Pre-Sales Solutions Engineer — AV/IT** (Charlotte, NC). Monster.com Charlotte hub — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/pre-sales-solutions-engineer-av-it-charlotte-nc-charlotte-nc--8d9383c8-506b-42e0-8356-46f7c5bbaf49) |
+| **Monster listing** | **Strategic Accounts Sales Engineer — Remote** (Denver, CO). Monster.com remote West presales — verify on Monster. | [Apply on Monster](https://www.monster.com/job-openings/strategic-accounts-sales-engineer-remote-denver-co--67af618d-4e08-4e2d-9c0c-347aa746e0ca) |
 | **SHI International** | **ASG Presales Solutions Engineer — Cloud** (Addison, TX). VAR cloud presales; DFW/Austin corridor. | [Apply on Monster](https://www.monster.com/job-openings/asg-presales-solutions-engineer-cloud-addison-tx--b7cdbf01-edc9-4bef-a87f-9eb67fe286b5) |
 
 ## Stretch roles (save for 12–24 months or apply if you meet bar)
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Nutanix** | **Systems Sales Engineer** (Newark, NJ). Hybrid NYC metro; data-center presales. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425942267) |
-| 🆕 **Nutanix** | **Systems Sales Engineer** (New York, NY). Nutanix hybrid-cloud presales; NYC hub. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425941325) |
 | **ChapsVision** | **Solutions Engineer II (US — Remote)** (United States). Enterprise AI search (Sinequa); GenAI/RAG focus; 5+ YOE. Stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solutions-engineer-ii-us-remote-at-chapsvision-4418504267) |
 | **Experian** | **Solution Engineer — Remote** (United States). Bureau Composer / AI decisioning platform; 5+ YOE, $100K–$174K. Stretch — save unless you meet bar. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-engineer-remote-at-experian-4430122154) |
+| **Nutanix** | **Systems Sales Engineer** (Newark, NJ). Hybrid NYC metro; data-center presales. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425942267) |
+| **Nutanix** | **Systems Sales Engineer** (New York, NY). Nutanix hybrid-cloud presales; NYC hub. 5+ YOE — stretch. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/systems-sales-engineer-at-nutanix-4425941325) |
 | **Qualcomm** | **Pre-Sales Solution Engineer (U.S. Remote)** (Boxborough, MA / US remote). Edge AI / Edge Impulse ML presales; 4+ YOE. Stretch role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/pre-sales-solution-engineer-u-s-remote-work-eligible-at-qualcomm-4399644129) |
 | **Red Hat** | **Solution Architect** (United States). OpenShift/hybrid cloud SA at Red Hat HQ corridor. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/solution-architect-at-red-hat-4432862212) |
 | **SHI International** | **ASG Presales Solutions Engineer — Identity** (New York / remote). Identity security presales; 3–5+ yrs presales. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/asg-presales-solutions-engineer-identity-at-shi-international-corp-4355785848) |
@@ -224,6 +261,7 @@
 | 2026-07-03 | 27 | 69 | 96 |
 | 2026-07-03 | — | — | 88 |
 | 2026-07-04 | 21 | 88 | 109 |
+| 2026-07-06 | 29 | 109 | 138 |
 
 ---
 
