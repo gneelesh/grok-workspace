@@ -1,0 +1,530 @@
+{
+  "search_date": "2026-09-10",
+  "jobs": [
+    {
+      "company": "Brain Co.",
+      "description": "**Early Career Machine Learning Engineer, Applied AI** (San Francisco Bay Area). Explicit early-career applied-AI track — one of the cleanest 0–3 YOE entry points this run.",
+      "url": "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-applied-ai-at-brain-co-4362406858",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Notion",
+      "description": "**Software Engineer, Early Career (AI)** (San Francisco, CA). Early-career SWE role scoped to AI product work at a major SaaS company.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-ai-at-notion-4437472369",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Noblis",
+      "description": "**Artificial Intelligence Engineer (Multiple Levels)** (McLean, VA). Posting spans junior through senior — apply at the level that fits; federal R&D shop.",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-multiple-levels-at-noblis-4465806338",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "CLEAR",
+      "description": "**Machine Learning Engineer II** (New York, NY). Level-II MLE (not senior-gated) on identity/verification ML systems.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-clear-4446120056",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Amazon",
+      "description": "**Machine Learning Engineer II, AGI Customization** (Boston, MA). L5-equivalent MLE on Amazon's AGI team — model customization and fine-tuning.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-agi-customization-at-amazon-4455796592",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Crowe",
+      "description": "**Machine Learning Software Engineer 1** (Austin, TX). Level-1 MLSE — explicitly the entry rung of the ladder.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-1-at-crowe-4454807477",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Aderant",
+      "description": "**AI Engineer — Center of Excellence** (Atlanta, GA). AI CoE build-out role; legal-tech SaaS, no seniority gate in title.",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-center-of-excellence-at-aderant-4451552732",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "description": "**AI Engineer** (McLean, VA). Untitled-level AI engineering on federal programs; strong entry point with a clearance path.",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454590323",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "description": "**AI Engineer** (Washington, DC). Same AI engineering track, DC location.",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454587314",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Optum",
+      "description": "**AI/ML Engineer** (Minnetonka, MN). Healthcare AI/ML engineering at scale; mid-level, large training budget.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-optum-4465342505",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Carnival Corporation",
+      "description": "**Engineer, AI/ML** (Miami, FL). Mid-level AI/ML engineering role, no seniority gate in title.",
+      "url": "https://www.linkedin.com/jobs/view/engineer-ai-ml-at-carnival-corporation-4463134500",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Lockheed Martin",
+      "description": "**A/AI Machine Learning Engineer** (Manassas, VA). Defense ML engineering; ungated level, clearance-track.",
+      "url": "https://www.linkedin.com/jobs/view/a-ai-machine-learning-engineer-at-lockheed-martin-4463473372",
+      "link_text": "Apply on LinkedIn",
+      "section": "apply_first"
+    },
+    {
+      "company": "Fulcrum",
+      "description": "**Forward Deployed AI Engineer** (San Francisco, CA). Exact-title match — customer-embedded AI engineering, build-and-deploy against real workflows.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-fulcrum-4452286868",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Helios",
+      "description": "**Forward Deployed Applied Intelligence Engineer** (New York, NY). FDE role blending applied AI with direct customer deployment.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-applied-intelligence-engineer-at-helios-4460942418",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Tavily",
+      "description": "**Forward Deployed Engineer, Ecosystem** (New York). FDE at an AI search/retrieval API company — heavy agent and RAG integration work.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-at-tavily-4459436081",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Nebius",
+      "description": "**Forward Deployed Engineer, Ecosystem — Tavily** (New York). Same Tavily FDE seat posted under the Nebius parent org.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-tavily-at-nebius-4458437054",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "ElevenLabs",
+      "description": "**Forward Deployed Engineer / Software Engineer — North America** (New York). FDE at a leading voice-AI vendor; customer-facing integration engineering.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-north-america-at-elevenlabs-4361668116",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Cohere",
+      "description": "**Forward Deployed Engineer, Agentic Platform** (New York, NY). FDE on an agentic LLM platform at a frontier-model company.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-at-cohere-4423810353",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Cohere",
+      "description": "**Forward Deployed Engineer, Agentic Platform (West Coast)** (Salt Lake City, UT). Same agentic-platform FDE role, West Coast coverage.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-west-coast-at-cohere-4430584126",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "AiPrise",
+      "description": "**Bilingual Forward Deployed Engineer (English/Spanish)** (San Jose, CA). FDE at an identity-verification AI startup; bilingual requirement.",
+      "url": "https://www.linkedin.com/jobs/view/bilingual-forward-deployed-engineer-english-spanish-at-aiprise-4465850523",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Diligent",
+      "description": "**Forward Deployed Engineer** (New York, NY). FDE at a governance/risk SaaS vendor rolling out AI features to enterprise customers.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-diligent-4386795911",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Ease Health",
+      "description": "**Forward Deployed Engineer** (New York, NY). Healthcare AI startup FDE — deploy directly into clinical customer environments.",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-ease-health-4465847617",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Trilon",
+      "description": "**Applied AI Field Engineer** (Charlotte, NC). Field-deployed applied AI engineering; FDE-shaped role outside the usual coastal hubs.",
+      "url": "https://www.linkedin.com/jobs/view/applied-ai-field-engineer-at-trilon-4463620527",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "description": "**AI Engineer / Forward Engineer** (Phoenix, AZ). Consulting-side forward-deployed AI engineering; verify level in the posting.",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-forward-engineer-at-tata-consultancy-services-4453023193",
+      "link_text": "Apply on LinkedIn",
+      "section": "fde"
+    },
+    {
+      "company": "Oddball",
+      "description": "**Applied AI/ML Engineer** (Washington, DC). Applied AI on federal digital-services contracts; Python-first.",
+      "url": "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-oddball-4465316764",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Confido",
+      "description": "**Applied AI/ML Engineer** (New York, NY). Applied AI engineering at a CPG-data startup; production Python and model integration.",
+      "url": "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-confido-4454584730",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "description": "**AI/ML Engineer** (Dayton, OH). Federal AI/ML engineering; ungated level.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-booz-allen-hamilton-4455551618",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Texas GovLink, Inc.",
+      "description": "**AI/ML Engineer** (Austin, TX Metro). Public-sector AI/ML engineering in the Austin market.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-texas-govlink-inc-4463559344",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Accenture",
+      "description": "**AI/ML Computational Science Engineer** (Austin, TX). Consulting AI/ML delivery role with broad client exposure.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-computational-science-engineer-at-accenture-4461954412",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Crowe",
+      "description": "**Machine Learning Engineer** (Austin, TX). Ungated MLE seat alongside Crowe's level-1 posting.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-crowe-4454824314",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Bain & Company",
+      "description": "**AI/ML Engineer** (Austin, TX). AI engineering inside Bain's advanced analytics practice.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-bain-company-4451560525",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Slalom",
+      "description": "**AI/ML Engineer** (Austin, TX). Consultancy AI/ML delivery; strong for building a varied project portfolio.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-slalom-4453047416",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Lila Sciences",
+      "description": "**ML Engineer, Applied AI** (Cambridge, MA). Applied ML at an AI-for-science startup; Python and experimentation heavy.",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-applied-ai-at-lila-sciences-4464639739",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Plenful",
+      "description": "**Machine Learning Engineer** (San Francisco, CA). Healthcare-automation startup; ungated MLE level.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-plenful-4444171613",
+      "link_text": "Apply on LinkedIn",
+      "section": "ai_python"
+    },
+    {
+      "company": "Deloitte",
+      "description": "**Agentic AI Engineer — Anthropic / Claude** (Austin, TX). Agent engineering explicitly on the Claude stack — tool-calling, orchestration, evals.",
+      "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-anthropic-claude-at-deloitte-4464922566",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Deloitte",
+      "description": "**Agentic AI Engineer — Healthcare AI** (Austin, TX). Agentic AI build-out for healthcare clients; also posted in Minneapolis and Nashville.",
+      "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-%E2%80%94-healthcare-ai-at-deloitte-4426730796",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Thomson Reuters",
+      "description": "**Generative AI & Machine Learning Engineer** (McLean, VA). GenAI engineering on legal/tax products; production LLM systems.",
+      "url": "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Gap International",
+      "description": "**AI/LLM Engineer** (Greater Philadelphia). Explicit LLM engineering title; application-layer work.",
+      "url": "https://www.linkedin.com/jobs/view/ai-llm-engineer-at-gap-international-4434035022",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "description": "**Gen AI Engineer** (Plano, TX). GenAI delivery engineering for enterprise clients.",
+      "url": "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-tata-consultancy-services-4460065874",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "OpenAI",
+      "description": "**Machine Learning Engineer, Integrity** (San Francisco, CA). Frontier-lab MLE on integrity/safety systems; ungated level.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-integrity-at-openai-4417159976",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Google",
+      "description": "**Software Engineer III, AI/ML GenAI — Google Cloud AI** (Seattle, WA). L4 SWE on Google Cloud's GenAI stack — the non-senior rung of this ladder.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-ai-ml-genai-google-cloud-ai-at-google-4454247612",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "description": "**Software Engineer, E-Commerce AI Platform — USDS** (Seattle, WA). AI platform engineering inside the US data-security joint venture.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-e-commerce-ai-platform-usds-at-tiktok-usds-joint-venture-4463679109",
+      "link_text": "Apply on LinkedIn",
+      "section": "genai_llm"
+    },
+    {
+      "company": "Raft",
+      "description": "**ML Ops Engineer** (Tampa, FL). MLOps on federal/defense AI platforms; Kubernetes and model-serving heavy.",
+      "url": "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-raft-4386558391",
+      "link_text": "Apply on LinkedIn",
+      "section": "ml_platform"
+    },
+    {
+      "company": "4Minds",
+      "description": "**Machine Learning Operations Engineer (MLOps)** (Dallas, TX). MLOps pipeline and deployment engineering.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-ml-ops-engineer-at-4minds-4453024035",
+      "link_text": "Apply on LinkedIn",
+      "section": "ml_platform"
+    },
+    {
+      "company": "Fireworks AI",
+      "description": "**Member of Technical Staff, AI Training Infrastructure** (New York, NY). Training/inference infrastructure at an LLM serving platform — MTS is the standard IC title here, not a staff-level gate.",
+      "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-ai-training-infrastructure-at-fireworks-ai-4456408266",
+      "link_text": "Apply on LinkedIn",
+      "section": "ml_platform"
+    },
+    {
+      "company": "TikTok",
+      "description": "**Machine Learning Engineer Graduate (E-Commerce Recommendation / Search Alliance) — 2027 Start** (Seattle, WA). New-grad ML pipeline with a 2027 start date.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449984411",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_seattle"
+    },
+    {
+      "company": "TikTok",
+      "description": "**Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) — 2027 Start** (Seattle, WA). New-grad recommendation-systems track.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-at-tiktok-4453028913",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_seattle"
+    },
+    {
+      "company": "TikTok",
+      "description": "**Machine Learning Engineer Graduate (Trust and Safety) — 2027 Start** (Seattle, WA). New-grad ML on trust & safety systems.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tiktok-trust-and-safety-2027-start-at-tiktok-4448201186",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_seattle"
+    },
+    {
+      "company": "Plymouth Rock Assurance",
+      "description": "**Artificial Intelligence Engineer** (Greater Boston). Ungated AI engineering seat at an insurer building out AI capability.",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-plymouth-rock-assurance-4444824739",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_boston"
+    },
+    {
+      "company": "RA Capital Management",
+      "description": "**AI Engineer** (Boston, MA). AI engineering inside a life-sciences investment firm; small team, broad scope.",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-ra-capital-management-4422826143",
+      "link_text": "Apply on LinkedIn",
+      "section": "hub_boston"
+    },
+    {
+      "company": "NTT DATA",
+      "description": "**Remote Machine Learning Engineer** (Plano, TX — remote). Monster listing — verify level and status on Monster before applying.",
+      "url": "https://www.monster.com/job-openings/remote-machine-learning-engineer-plano-tx--cd6435c6-59fc-46ba-a2e0-e5ce0b20f2b9",
+      "link_text": "View on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Monster listing",
+      "description": "**Machine Learning Engineer with Python — W2 Contract** (Plano, TX). Contract MLE role, Python-first. Verify employer and status on Monster.",
+      "url": "https://www.monster.com/job-openings/machine-learning-engineer-with-python-w2-contract-plano-tx--e4d02384-684b-4eeb-9b85-bacdb87e6080",
+      "link_text": "View on Monster",
+      "section": "monster"
+    },
+    {
+      "company": "Capital One",
+      "description": "**Senior AI Engineer (AI Foundations)** (New York, NY). Core AI platform team; senior band. Also posted in Cambridge, MA.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465394051",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Brellium",
+      "description": "**Senior AI Engineer** (New York, NY). Healthcare-AI startup; senior band but small team with wide ownership.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brellium-4453043727",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Prudentia Sciences",
+      "description": "**Senior AI/ML Engineer** (New York, NY). Senior band; also posted in Cambridge, MA.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463900620",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "HCLTech",
+      "description": "**Senior AI Engineer** (New York, NY). Services-side senior AI engineering; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-hcltech-4457797982",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Brown Brothers Harriman",
+      "description": "**Senior AI Engineer** (Boston, MA). Financial-services AI engineering; also posted in Jersey City and New York.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brown-brothers-harriman-4444627130",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Capgemini",
+      "description": "**Senior AI Engineer** (Atlanta, GA). Consulting senior AI engineering role.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-capgemini-4463152420",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "BrightAI",
+      "description": "**Senior AI Engineer — LLM, RAG** (Palo Alto, CA). Direct LLM/RAG engineering; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-rag-at-brightai-4281883251",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "The Home Depot",
+      "description": "**Senior Machine Learning Engineer — Generative AI (REMOTE)** (Atlanta, GA). Fully remote senior GenAI MLE.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-generative-ai-remote-at-the-home-depot-4461681728",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Yelp",
+      "description": "**Senior Machine Learning Engineer — Content and Contributor Intelligence (Remote US)** (San Francisco, CA). Remote-US senior MLE.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-content-and-contributor-intelligence-remote-united-states-at-yelp-4387663037",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "EvenUp",
+      "description": "**Senior Machine Learning Engineer** (San Francisco, CA). Legal-AI startup; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-evenup-4437312010",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Airbnb",
+      "description": "**Senior Machine Learning Engineer, Trust** (San Francisco, CA). Trust & safety ML at scale; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-trust-at-airbnb-4454831670",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Salesforce",
+      "description": "**Senior ML Engineer** (San Francisco, CA). Senior MLE on Salesforce's AI platform.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455357162",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Spotify",
+      "description": "**Senior Machine Learning Engineer, Personalization (Muse)** (New York, NY). Recommendation/personalization ML; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-personalization-muse-at-spotify-4408562717",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "FieldAI",
+      "description": "**Senior Machine Learning Platform Engineer** (Irvine, CA). Robotics-AI platform engineering; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-platform-engineer-at-fieldai-4368413989",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Confido",
+      "description": "**Senior ML Ops Engineer** (New York, NY). MLOps ownership at a startup; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-confido-4438511222",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Blockchains, Inc.",
+      "description": "**Senior AI Engineer** (Reno, NV). Senior AI engineering outside the major hubs — lower competition.",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-blockchains-inc-4457292704",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "O.C. Tanner",
+      "description": "**Sr. Applied AI Engineer** (Salt Lake City Metro). Applied AI at senior band; SLC market.",
+      "url": "https://www.linkedin.com/jobs/view/sr-applied-ai-engineer-at-o-c-tanner-4461310154",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Entrata",
+      "description": "**Senior Machine Learning Engineer** (Lehi, UT). Remote-eligible senior MLE at a proptech SaaS company.",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Berkadia",
+      "description": "**Senior Engineer — Machine Learning** (New York, NY). Commercial real-estate ML; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/senior-engineer-machine-learning-at-berkadia-4462069192",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "description": "**AI/ML Engineer, Senior** (Dayton, OH). Senior federal AI/ML engineering.",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454302465",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Plymouth Rock Assurance",
+      "description": "**Sr. Artificial Intelligence Engineer** (Greater Boston). Senior counterpart to the ungated Plymouth Rock AI Engineer posting.",
+      "url": "https://www.linkedin.com/jobs/view/sr-artificial-intelligence-engineer-at-plymouth-rock-assurance-4444833722",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Amazon",
+      "description": "**Sr. Machine Learning Engineer, Sponsored Products and Brands** (Seattle, WA). Ads ML at scale; senior band.",
+      "url": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-sponsored-products-and-brands-at-amazon-4464051071",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    },
+    {
+      "company": "Google",
+      "description": "**Senior Software Engineer, AI/ML GenAI — Google Cloud** (New York, NY). Senior rung of the Google Cloud GenAI ladder; also posted in Kirkland, WA.",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-ml-genai-google-cloud-at-google-4454944241",
+      "link_text": "Apply on LinkedIn",
+      "section": "stretch"
+    }
+  ]
+}
