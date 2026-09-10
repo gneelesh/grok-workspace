@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 from datetime import date
@@ -16,40 +17,61 @@ from typing import Any
 from urllib.parse import urlparse
 
 WORKSPACE = Path(__file__).resolve().parents[4]
-OUTPUT_MD = WORKSPACE / "aaditya-job-search-2026.md"
-STATE_JSON = WORKSPACE / "aaditya-job-search-state.json"
-JOBS_INBOX = WORKSPACE / "aaditya-job-search-inbox.json"
 
-SECTION_ORDER = [
-    ("apply_first", "## Apply first — best fit (~0–3 YOE)", None),
-    ("channel_partners", "## Channel partners & non-Big-3 ecosystem", None),
-    ("ai_genai", "## AI / GenAI / data platform (profile differentiator)", None),
-    ("hub_nyc", "### New York / New Jersey", "hub"),
-    ("hub_austin", "### Austin / Texas / Dallas", "hub"),
-    ("hub_raleigh", "### Raleigh / Charlotte (Red Hat corridor)", "hub"),
-    ("hub_sf", "### San Francisco Bay Area", "hub"),
-    ("hub_chicago", "### Chicago", "hub"),
-    ("hub_atlanta", "### Atlanta", "hub"),
-    ("hub_boston", "### Boston / Denver / Seattle (remote-friendly)", "hub"),
-    ("monster", "## Monster.com listings", None),
-    ("stretch", "## Stretch roles (save for 12–24 months or apply if you meet bar)", None),
-]
-
-HEADER_TO_SECTION = {
-    "## Apply first — best fit (~0–3 YOE)": "apply_first",
-    "## Channel partners & non-Big-3 ecosystem": "channel_partners",
-    "## AI / GenAI / data platform (profile differentiator)": "ai_genai",
-    "## Hub city listings": "_hub_parent",
-    "### New York / New Jersey": "hub_nyc",
-    "### Austin / Texas / Dallas": "hub_austin",
-    "### Raleigh / Charlotte (Red Hat corridor)": "hub_raleigh",
-    "### San Francisco Bay Area": "hub_sf",
-    "### Chicago": "hub_chicago",
-    "### Atlanta": "hub_atlanta",
-    "### Boston / Denver / Seattle (remote-friendly)": "hub_boston",
-    "## Monster.com listings": "monster",
-    "## Stretch roles (save for 12–24 months or apply if you meet bar)": "stretch",
+# Default track = presales. A second track (e.g. AI engineer) supplies its own
+# paths, headings and header text via a JSON file named in $JOB_TRACK_CONFIG.
+DEFAULT_TRACK = {
+    "output_md": "aaditya-job-search-2026.md",
+    "state_json": "aaditya-job-search-state.json",
+    "inbox_json": "aaditya-job-search-inbox.json",
+    "title": "Aaditya Ghosalkar — Job Search Results (2026)",
+    "meta_lines": [
+        "**Profile:** ~2 YOE · UVA CS · AWS SAA + AI Practitioner · GenAI/POC delivery · Open to relocate US-wide  ",
+        "**Search scope:** LinkedIn + Monster · US hubs + Remote  ",
+        "**Roles:** Sales Engineer · Solutions Consultant · Presales · Associate SA  ",
+    ],
+    "footer": (
+        "*Auto-updated by `/presales-job-search` skill · "
+        "State: `aaditya-job-search-state.json` · "
+        "Queries: `aaditya-job-search-queries.md`*"
+    ),
+    "hub_parent_heading": "## Hub city listings",
+    "section_order": [
+        ["apply_first", "## Apply first — best fit (~0–3 YOE)", None],
+        ["channel_partners", "## Channel partners & non-Big-3 ecosystem", None],
+        ["ai_genai", "## AI / GenAI / data platform (profile differentiator)", None],
+        ["hub_nyc", "### New York / New Jersey", "hub"],
+        ["hub_austin", "### Austin / Texas / Dallas", "hub"],
+        ["hub_raleigh", "### Raleigh / Charlotte (Red Hat corridor)", "hub"],
+        ["hub_sf", "### San Francisco Bay Area", "hub"],
+        ["hub_chicago", "### Chicago", "hub"],
+        ["hub_atlanta", "### Atlanta", "hub"],
+        ["hub_boston", "### Boston / Denver / Seattle (remote-friendly)", "hub"],
+        ["monster", "## Monster.com listings", None],
+        ["stretch", "## Stretch roles (save for 12–24 months or apply if you meet bar)", None],
+    ],
 }
+
+
+def load_track() -> dict[str, Any]:
+    track = dict(DEFAULT_TRACK)
+    cfg_path = os.environ.get("JOB_TRACK_CONFIG")
+    if cfg_path:
+        track.update(json.loads(Path(cfg_path).read_text(encoding="utf-8")))
+    return track
+
+
+TRACK = load_track()
+
+OUTPUT_MD = WORKSPACE / TRACK["output_md"]
+STATE_JSON = WORKSPACE / TRACK["state_json"]
+JOBS_INBOX = WORKSPACE / TRACK["inbox_json"]
+
+SECTION_ORDER = [tuple(s) for s in TRACK["section_order"]]
+
+HEADER_TO_SECTION = {TRACK["hub_parent_heading"]: "_hub_parent"}
+HEADER_TO_SECTION.update({heading: sec_id for sec_id, heading, _ in SECTION_ORDER})
+DEFAULT_SECTION = SECTION_ORDER[0][0]
 
 TABLE_ROW_RE = re.compile(
     r"^\|\s*(?P<company>.+?)\s*\|\s*(?P<desc>.+?)\s*\|\s*\[(?P<link_text>[^\]]+)\]\((?P<url>[^)]+)\)\s*\|\s*$"
@@ -85,7 +107,7 @@ def save_state(state: dict[str, Any]) -> None:
 
 def parse_markdown_jobs(md_text: str) -> list[dict[str, str]]:
     jobs: list[dict[str, str]] = []
-    current_section = "apply_first"
+    current_section = DEFAULT_SECTION
 
     for line in md_text.splitlines():
         header = line.strip()
@@ -157,8 +179,13 @@ def merge_jobs(new_jobs: list[dict[str, str]], run_date: str | None = None) -> d
     state = load_state()
 
     if not state.get("jobs"):
-        bootstrap_from_markdown()
-        state = load_state()
+        # Cold start: import an existing markdown if there is one, otherwise
+        # begin from an empty state (first run of a brand-new track).
+        if OUTPUT_MD.exists():
+            bootstrap_from_markdown()
+            state = load_state()
+        else:
+            print(f"No state and no {OUTPUT_MD.name} — starting a new track from scratch")
 
     previous_run = state.get("last_run")
     new_count = 0
@@ -174,7 +201,7 @@ def merge_jobs(new_jobs: list[dict[str, str]], run_date: str | None = None) -> d
 
         company = job.get("company", "").strip()
         description = job.get("description", job.get("job_description", "")).strip()
-        section = job.get("section", "apply_first")
+        section = job.get("section", DEFAULT_SECTION)
         link_text = job.get("link_text", "Apply")
 
         if not company or not description:
@@ -244,9 +271,9 @@ def render_markdown(state: dict[str, Any]) -> str:
     jobs_by_section: dict[str, list[dict[str, str]]] = {s[0]: [] for s in SECTION_ORDER}
 
     for job in state["jobs"].values():
-        sec = job.get("section", "apply_first")
+        sec = job.get("section", DEFAULT_SECTION)
         if sec not in jobs_by_section:
-            sec = "apply_first"
+            sec = DEFAULT_SECTION
         jobs_by_section[sec].append(job)
 
     for sec_jobs in jobs_by_section.values():
@@ -261,16 +288,14 @@ def render_markdown(state: dict[str, Any]) -> str:
         prev_date = last_history[-2].get("date")
 
     lines: list[str] = [
-        "# Aaditya Ghosalkar — Job Search Results (2026)",
+        f"# {TRACK['title']}",
         "",
         f"**Last updated:** {run_date}  ",
         f"**Previous run:** {prev_date or state.get('baseline_date', '—')}  ",
         f"**Total tracked:** {len(state['jobs'])}  ",
         f"**New this run:** {len(new_jobs)}  ",
         "",
-        "**Profile:** ~2 YOE · UVA CS · AWS SAA + AI Practitioner · GenAI/POC delivery · Open to relocate US-wide  ",
-        "**Search scope:** LinkedIn + Monster · US hubs + Remote  ",
-        "**Roles:** Sales Engineer · Solutions Consultant · Presales · Associate SA  ",
+        *TRACK["meta_lines"],
         "",
         "> Jobs marked with 🆕 in the table were **first seen on the last search run**. Verify links before applying.",
         "",
@@ -314,7 +339,7 @@ def render_markdown(state: dict[str, Any]) -> str:
             continue
 
         if kind == "hub" and not hub_started:
-            lines.extend(["## Hub city listings", ""])
+            lines.extend([TRACK["hub_parent_heading"], ""])
             hub_started = True
 
         lines.extend([heading, ""])
@@ -353,9 +378,7 @@ def render_markdown(state: dict[str, Any]) -> str:
             "",
             "---",
             "",
-            "*Auto-updated by `/presales-job-search` skill · "
-            "State: `aaditya-job-search-state.json` · "
-            "Queries: `aaditya-job-search-queries.md`*",
+            TRACK["footer"],
             "",
         ]
     )
@@ -376,7 +399,7 @@ def cmd_merge(path: Path | None, prune_after: bool = False, prune_delay: float =
     inbox = path or JOBS_INBOX
     if not inbox.exists():
         print(f"ERROR: inbox not found: {inbox}", file=sys.stderr)
-        print("Agent should write search results to aaditya-job-search-inbox.json", file=sys.stderr)
+        print(f"Agent should write search results to {inbox.name}", file=sys.stderr)
         sys.exit(1)
 
     data = json.loads(inbox.read_text(encoding="utf-8"))

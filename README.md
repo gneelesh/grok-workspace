@@ -8,6 +8,25 @@ Career transition toolkit for **Aaditya Ghosalkar** — targeting pre-sales, sal
 
 ---
 
+## What to run
+
+Two independent search tracks share one engine. Each keeps its own state, inbox, and output file — running one never touches the other.
+
+| Track | Roles | Ask for it | Output |
+|---|---|---|---|
+| **Presales** | Sales Engineer · Solutions Consultant · Presales · Associate SA | `/presales-job-search`, or *"run daily job search"* | `aaditya-job-search-2026.md` |
+| **AI Engineer** | AI Engineer · Forward Deployed AI Engineer · AI/Python Engineer · LLM/GenAI Engineer | *"read `claude-ai-engineer.md` and run it"* | `ai-engineer-jobs-2026.md` |
+
+Run either daily. Both prune closed listings before and after searching, then mark genuinely new postings with 🆕.
+
+**The AI Engineer track requires `JOB_TRACK_CONFIG` on every command** — without it the script writes to the presales files:
+
+```bash
+export JOB_TRACK_CONFIG=ai-engineer-track.json
+```
+
+---
+
 ## End-to-end process
 
 This repo supports a repeatable job-search workflow: position the profile, maintain search queries, run a daily automated scan, review new postings, apply, and track follow-ups.
@@ -48,6 +67,11 @@ flowchart TD
 | `aaditya-job-search-inbox.json` | Staging file for each day's search results |
 | `aaditya-application-tracker.md` | Application status and follow-up tracker |
 | `aaditya-cover-letters-top5.md` | Tailored cover letters for priority roles |
+| `claude-ai-engineer.md` | **AI Engineer track workflow** — search passes, Boolean strings, filters |
+| `ai-engineer-track.json` | AI Engineer track config (output paths, section headings) |
+| `ai-engineer-jobs-2026.md` | **Live AI Engineer listings** — updated in place each run |
+| `ai-engineer-state.json` | AI Engineer job URL tracker |
+| `ai-engineer-inbox.json` | Staging file for each AI Engineer search run |
 
 ---
 
@@ -163,35 +187,83 @@ The agent writes search results to `aaditya-job-search-inbox.json` before runnin
 
 ---
 
+## AI Engineer track
+
+Same engine, second track. Full instructions live in **`claude-ai-engineer.md`** — ask *"read `claude-ai-engineer.md` and run it"*.
+
+### Search coverage (5 passes)
+
+1. **Core AI Engineer** — remote US (`f_WT=2`)
+2. **Forward Deployed** — Forward Deployed Engineer / Applied AI Engineer
+3. **AI + Python** — AI Python Engineer / LLM Engineer / GenAI Engineer
+4. **Hub cities** — SF Bay, NYC, Seattle, Austin, Boston, Denver
+5. **Monster.com** — expect 403; fall back to web search
+
+Prefer LinkedIn's guest job API — it returns real job cards without login, unlike plain web search which mostly returns aggregate listing pages:
+
+```
+https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=<terms>&location=<loc>&f_TPR=r604800&start=0
+```
+
+Parameters: `f_WT=2` remote · `f_E=2,3` entry/associate · `f_TPR=r604800` past week · `start=25` page 2.
+
+### Role filtering
+
+**Include:** AI Engineer · Applied AI Engineer · Forward Deployed (AI/Software) Engineer · AI/ML Engineer · LLM Engineer · GenAI Engineer · Machine Learning Engineer · Python Engineer with AI scope · MLOps / ML Platform Engineer
+
+**Exclude:** Principal · Distinguished · Staff · Director · VP · Research Scientist (PhD-gated) · Data Analyst/Engineer with no AI scope · aggregator spam (Jobright.ai, "Jobs AI", Client Reach AI)
+
+| Signal | `section` value |
+|---|---|
+| Entry/associate/new-grad, 0–3 YOE | `apply_first` |
+| Forward deployed, field engineer, customer-facing AI | `fde` |
+| Python-first application engineering with AI scope | `ai_python` |
+| LLM / GenAI / agents / RAG product engineering | `genai_llm` |
+| MLOps, model serving, GPU/inference infra | `ml_platform` |
+| Remote-US with no specific hub | `remote` |
+| SF · NYC · Seattle · Austin · Boston | `hub_sf` · `hub_nyc` · `hub_seattle` · `hub_austin` · `hub_boston` |
+| monster.com URL | `monster` |
+| Senior-only, 5+ years, research-heavy | `stretch` |
+
+---
+
 ## Manual commands
 
-From the workspace root:
+From the workspace root (`python3` on Linux/macOS, `python` on Windows):
 
-```powershell
-cd C:\Users\neele\grok-workspace
+```bash
+# --- Presales track (default) ---
+python3 .grok/skills/presales-job-search/scripts/job_search.py status
+python3 .grok/skills/presales-job-search/scripts/job_search.py prune           # remove closed listings
+python3 .grok/skills/presales-job-search/scripts/job_search.py prune --dry-run # preview only
+python3 .grok/skills/presales-job-search/scripts/job_search.py merge --prune-after
+python3 .grok/skills/presales-job-search/scripts/job_search.py render          # regenerate markdown from state
+python3 .grok/skills/presales-job-search/scripts/job_search.py bootstrap       # re-import from markdown
 
-# Check tracker status
-python .grok/skills/presales-job-search/scripts/job_search.py status
-
-# Re-import jobs from markdown (first-time setup)
-python .grok/skills/presales-job-search/scripts/job_search.py bootstrap
-
-# Merge inbox after a manual search
-python .grok/skills/presales-job-search/scripts/job_search.py merge
-
-# Regenerate markdown from state only
-python .grok/skills/presales-job-search/scripts/job_search.py render
+# --- AI Engineer track (same commands, one extra export) ---
+export JOB_TRACK_CONFIG=ai-engineer-track.json
+python3 .grok/skills/presales-job-search/scripts/job_search.py status
+python3 .grok/skills/presales-job-search/scripts/job_search.py prune
+python3 .grok/skills/presales-job-search/scripts/job_search.py merge --prune-after
 ```
+
+Windows PowerShell sets the track with `$env:JOB_TRACK_CONFIG = "ai-engineer-track.json"` instead of `export`.
+
+### How the two tracks stay separate
+
+`job_search.py` reads its output path, state path, inbox path, title, and section headings from a **track config**. With no `JOB_TRACK_CONFIG` set it uses the built-in presales defaults; with it set, everything is redirected to that track's files. Adding a third track means writing one more `*-track.json` plus a workflow markdown — no changes to the script.
 
 ### Troubleshooting
 
 | Issue | Fix |
 |---|---|
-| `inbox not found` | Write `aaditya-job-search-inbox.json` before running `merge` |
+| `inbox not found` | Write the track's inbox JSON before running `merge` |
+| AI search wrote to the presales file | `JOB_TRACK_CONFIG` was not exported — re-export and re-run |
 | Duplicate companies in tables | OK — URL is the unique key |
-| LinkedIn fetch fails | Use web search snippets; still capture the job URL |
-| Monster blocks JS fetch | Use search result title + URL; note "verify on Monster" in description |
+| LinkedIn fetch fails | Use the guest job API, or web search snippets; still capture the job URL |
+| Monster blocks JS fetch (403) | Use search result title + URL; note "verify on Monster" in description |
 | Manual markdown edits | Avoid — they break state sync; always use `merge` / `render` |
+| Prune takes several minutes | Normal — ~2s per URL; `--delay=1.5` speeds it up (higher 429 risk) |
 
 ### Do not
 
@@ -205,7 +277,7 @@ python .grok/skills/presales-job-search/scripts/job_search.py render
 
 | Day | Task |
 |---|---|
-| **Daily** | Run `/presales-job-search` — review **What's new** section |
+| **Daily** | Run `/presales-job-search` and the `claude-ai-engineer.md` workflow — review each **What's new** section |
 | **Mon–Fri** | Apply to 1–2 roles from `aaditya-application-tracker.md` |
 | **Per apply** | Send `aaditya-presales-resume.md` (or PDF) + adapted cover letter |
 | **After apply** | Update tracker: `date_applied`, `status`, link |
@@ -227,28 +299,35 @@ Cover letter drafts for the top five are in `aaditya-cover-letters-top5.md`.
 
 ```
 .grok/skills/presales-job-search/
-├── SKILL.md                      # Grok agent instructions (5-step workflow)
+├── SKILL.md                      # Presales agent instructions (5-step workflow)
 ├── scripts/
-│   └── job_search.py             # bootstrap · merge · render · status
+│   ├── job_search.py             # bootstrap · merge · render · status · prune (both tracks)
+│   └── prune_closed.py           # URL checker for closed listings
 └── references/
     └── search-workflow.md        # Daily search passes, filters, inbox schema
+
+claude-ai-engineer.md             # AI Engineer agent instructions
+ai-engineer-track.json            # AI Engineer track config consumed by job_search.py
 ```
+
+`job_search.py` is track-agnostic: `DEFAULT_TRACK` holds the presales settings, and `$JOB_TRACK_CONFIG` overrides any of them (`output_md`, `state_json`, `inbox_json`, `title`, `meta_lines`, `footer`, `hub_parent_heading`, `section_order`).
 
 ---
 
 ## Git
 
-```powershell
+```bash
 git status
-git add README.md aaditya-job-search-2026.md aaditya-job-search-state.json aaditya-job-search-inbox.json
-git commit -m "Your message"
+
+# Presales run
+git add aaditya-job-search-2026.md aaditya-job-search-state.json aaditya-job-search-inbox.json
+git commit -m "Daily presales job search YYYY-MM-DD: N new, M pruned"
+
+# AI Engineer run
+git add ai-engineer-jobs-2026.md ai-engineer-state.json ai-engineer-inbox.json
+git commit -m "Daily AI engineer job search YYYY-MM-DD: N new, M pruned"
+
 git push
-```
-
-Daily search commit message format:
-
-```
-Daily presales job search YYYY-MM-DD: N new
 ```
 
 ---
@@ -259,3 +338,5 @@ Daily presales job search YYYY-MM-DD: N new
 - [LinkedIn — Solutions Engineer Remote + GenAI](https://www.linkedin.com/jobs/search/?keywords=%22solutions%20engineer%22%20generative%20OR%20genai&location=United%20States&f_WT=2)
 - [Monster — Sales Engineer](https://www.monster.com/jobs/q-sales-engineer-jobs)
 - [PreSales Collective](https://www.presalescollective.com/jobs)
+- [LinkedIn — AI Engineer (Remote US)](https://www.linkedin.com/jobs/search/?keywords=%22AI%20Engineer%22&location=United%20States&f_WT=2)
+- [LinkedIn — Forward Deployed Engineer](https://www.linkedin.com/jobs/search/?keywords=%22Forward%20Deployed%20Engineer%22&location=United%20States)

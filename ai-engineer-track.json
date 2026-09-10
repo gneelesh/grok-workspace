@@ -1,0 +1,28 @@
+{
+  "output_md": "ai-engineer-jobs-2026.md",
+  "state_json": "ai-engineer-state.json",
+  "inbox_json": "ai-engineer-inbox.json",
+  "title": "AI Engineer — Job Search Results (2026)",
+  "meta_lines": [
+    "**Roles:** AI Engineer · Forward Deployed AI Engineer · AI/Python Engineer · LLM / GenAI Engineer · Applied AI Engineer  ",
+    "**Search scope:** LinkedIn (guest job API) + Monster · US hubs + Remote  ",
+    "**Stack signals:** Python · LLMs / RAG · agents & tool-calling · LangChain/LlamaIndex · vector DBs · PyTorch · inference & eval  "
+  ],
+  "footer": "*Auto-updated by `claude-ai-engineer.md` workflow · State: `ai-engineer-state.json` · Track config: `ai-engineer-track.json`*",
+  "hub_parent_heading": "## Hub city listings",
+  "section_order": [
+    ["apply_first", "## Apply first — best fit AI Engineer roles", null],
+    ["fde", "## Forward Deployed / Applied AI Engineer (customer-facing)", null],
+    ["ai_python", "## AI / Python Engineer (application layer)", null],
+    ["genai_llm", "## GenAI / LLM product engineering", null],
+    ["ml_platform", "## ML platform / AI infrastructure", null],
+    ["remote", "## Remote — United States", null],
+    ["hub_sf", "### San Francisco Bay Area", "hub"],
+    ["hub_nyc", "### New York / New Jersey", "hub"],
+    ["hub_seattle", "### Seattle", "hub"],
+    ["hub_austin", "### Austin / Texas", "hub"],
+    ["hub_boston", "### Boston / Denver / other US hubs", "hub"],
+    ["monster", "## Monster.com listings", null],
+    ["stretch", "## Stretch roles (senior / research-heavy — apply if you meet bar)", null]
+  ]
+}
