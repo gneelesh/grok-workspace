@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-10",
+  "last_run": "2026-09-12",
   "jobs": {
     "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-applied-ai-at-brain-co-4362406858": {
       "company": "Brain Co.",
@@ -8,7 +8,8 @@
       "url": "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-applied-ai-at-brain-co-4362406858",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-early-career-ai-at-notion-4437472369": {
       "company": "Notion",
@@ -17,7 +18,8 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-ai-at-notion-4437472369",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-multiple-levels-at-noblis-4465806338": {
       "company": "Noblis",
@@ -26,7 +28,8 @@
       "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-multiple-levels-at-noblis-4465806338",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-clear-4446120056": {
       "company": "CLEAR",
@@ -35,7 +38,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-clear-4446120056",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-agi-customization-at-amazon-4455796592": {
       "company": "Amazon",
@@ -44,7 +48,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-agi-customization-at-amazon-4455796592",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-1-at-crowe-4454807477": {
       "company": "Crowe",
@@ -53,7 +58,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-1-at-crowe-4454807477",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-center-of-excellence-at-aderant-4451552732": {
       "company": "Aderant",
@@ -62,7 +68,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-center-of-excellence-at-aderant-4451552732",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454590323": {
       "company": "Booz Allen Hamilton",
@@ -71,7 +78,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454590323",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454587314": {
       "company": "Booz Allen Hamilton",
@@ -80,7 +88,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4454587314",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-optum-4465342505": {
       "company": "Optum",
@@ -89,7 +98,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-optum-4465342505",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/engineer-ai-ml-at-carnival-corporation-4463134500": {
       "company": "Carnival Corporation",
@@ -98,7 +108,8 @@
       "url": "https://www.linkedin.com/jobs/view/engineer-ai-ml-at-carnival-corporation-4463134500",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/a-ai-machine-learning-engineer-at-lockheed-martin-4463473372": {
       "company": "Lockheed Martin",
@@ -107,7 +118,8 @@
       "url": "https://www.linkedin.com/jobs/view/a-ai-machine-learning-engineer-at-lockheed-martin-4463473372",
       "section": "apply_first",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-fulcrum-4452286868": {
       "company": "Fulcrum",
@@ -116,7 +128,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-fulcrum-4452286868",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-applied-intelligence-engineer-at-helios-4460942418": {
       "company": "Helios",
@@ -125,7 +138,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-applied-intelligence-engineer-at-helios-4460942418",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-at-tavily-4459436081": {
       "company": "Tavily",
@@ -134,7 +148,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-at-tavily-4459436081",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-tavily-at-nebius-4458437054": {
       "company": "Nebius",
@@ -143,7 +158,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ecosystem-tavily-at-nebius-4458437054",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-north-america-at-elevenlabs-4361668116": {
       "company": "ElevenLabs",
@@ -152,7 +168,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-north-america-at-elevenlabs-4361668116",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-at-cohere-4423810353": {
       "company": "Cohere",
@@ -161,7 +178,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-at-cohere-4423810353",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-west-coast-at-cohere-4430584126": {
       "company": "Cohere",
@@ -170,7 +188,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-west-coast-at-cohere-4430584126",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/bilingual-forward-deployed-engineer-english-spanish-at-aiprise-4465850523": {
       "company": "AiPrise",
@@ -179,7 +198,8 @@
       "url": "https://www.linkedin.com/jobs/view/bilingual-forward-deployed-engineer-english-spanish-at-aiprise-4465850523",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-diligent-4386795911": {
       "company": "Diligent",
@@ -188,7 +208,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-diligent-4386795911",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-ease-health-4465847617": {
       "company": "Ease Health",
@@ -197,7 +218,8 @@
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-ease-health-4465847617",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/applied-ai-field-engineer-at-trilon-4463620527": {
       "company": "Trilon",
@@ -206,7 +228,8 @@
       "url": "https://www.linkedin.com/jobs/view/applied-ai-field-engineer-at-trilon-4463620527",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-engineer-forward-engineer-at-tata-consultancy-services-4453023193": {
       "company": "Tata Consultancy Services",
@@ -215,7 +238,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-engineer-forward-engineer-at-tata-consultancy-services-4453023193",
       "section": "fde",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-oddball-4465316764": {
       "company": "Oddball",
@@ -224,7 +248,8 @@
       "url": "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-oddball-4465316764",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-confido-4454584730": {
       "company": "Confido",
@@ -233,7 +258,8 @@
       "url": "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-confido-4454584730",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-booz-allen-hamilton-4455551618": {
       "company": "Booz Allen Hamilton",
@@ -242,7 +268,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-booz-allen-hamilton-4455551618",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-texas-govlink-inc-4463559344": {
       "company": "Texas GovLink, Inc.",
@@ -251,7 +278,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-texas-govlink-inc-4463559344",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-computational-science-engineer-at-accenture-4461954412": {
       "company": "Accenture",
@@ -260,7 +288,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-computational-science-engineer-at-accenture-4461954412",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-crowe-4454824314": {
       "company": "Crowe",
@@ -269,7 +298,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-crowe-4454824314",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-bain-company-4451560525": {
       "company": "Bain & Company",
@@ -278,7 +308,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-bain-company-4451560525",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-slalom-4453047416": {
       "company": "Slalom",
@@ -287,7 +318,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-slalom-4453047416",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ml-engineer-applied-ai-at-lila-sciences-4464639739": {
       "company": "Lila Sciences",
@@ -296,7 +328,8 @@
       "url": "https://www.linkedin.com/jobs/view/ml-engineer-applied-ai-at-lila-sciences-4464639739",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-plenful-4444171613": {
       "company": "Plenful",
@@ -305,7 +338,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-plenful-4444171613",
       "section": "ai_python",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/agentic-ai-engineer-anthropic-claude-at-deloitte-4464922566": {
       "company": "Deloitte",
@@ -314,7 +348,8 @@
       "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-anthropic-claude-at-deloitte-4464922566",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/agentic-ai-engineer-%E2%80%94-healthcare-ai-at-deloitte-4426730796": {
       "company": "Deloitte",
@@ -323,7 +358,8 @@
       "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-%E2%80%94-healthcare-ai-at-deloitte-4426730796",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403": {
       "company": "Thomson Reuters",
@@ -332,7 +368,8 @@
       "url": "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-llm-engineer-at-gap-international-4434035022": {
       "company": "Gap International",
@@ -341,7 +378,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-llm-engineer-at-gap-international-4434035022",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-tata-consultancy-services-4460065874": {
       "company": "Tata Consultancy Services",
@@ -350,7 +388,8 @@
       "url": "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-tata-consultancy-services-4460065874",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-integrity-at-openai-4417159976": {
       "company": "OpenAI",
@@ -359,7 +398,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-integrity-at-openai-4417159976",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-iii-ai-ml-genai-google-cloud-ai-at-google-4454247612": {
       "company": "Google",
@@ -368,7 +408,8 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-ai-ml-genai-google-cloud-ai-at-google-4454247612",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/software-engineer-e-commerce-ai-platform-usds-at-tiktok-usds-joint-venture-4463679109": {
       "company": "TikTok USDS Joint Venture",
@@ -377,7 +418,8 @@
       "url": "https://www.linkedin.com/jobs/view/software-engineer-e-commerce-ai-platform-usds-at-tiktok-usds-joint-venture-4463679109",
       "section": "genai_llm",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-raft-4386558391": {
       "company": "Raft",
@@ -386,7 +428,8 @@
       "url": "https://www.linkedin.com/jobs/view/ml-ops-engineer-at-raft-4386558391",
       "section": "ml_platform",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-ml-ops-engineer-at-4minds-4453024035": {
       "company": "4Minds",
@@ -395,7 +438,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-operations-engineer-ml-ops-engineer-at-4minds-4453024035",
       "section": "ml_platform",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/member-of-technical-staff-ai-training-infrastructure-at-fireworks-ai-4456408266": {
       "company": "Fireworks AI",
@@ -404,7 +448,8 @@
       "url": "https://www.linkedin.com/jobs/view/member-of-technical-staff-ai-training-infrastructure-at-fireworks-ai-4456408266",
       "section": "ml_platform",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449984411": {
       "company": "TikTok",
@@ -413,7 +458,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449984411",
       "section": "hub_seattle",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-at-tiktok-4453028913": {
       "company": "TikTok",
@@ -422,7 +468,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-foundation-2027-start-at-tiktok-4453028913",
       "section": "hub_seattle",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tiktok-trust-and-safety-2027-start-at-tiktok-4448201186": {
       "company": "TikTok",
@@ -431,7 +478,8 @@
       "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-tiktok-trust-and-safety-2027-start-at-tiktok-4448201186",
       "section": "hub_seattle",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-plymouth-rock-assurance-4444824739": {
       "company": "Plymouth Rock Assurance",
@@ -440,7 +488,8 @@
       "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-plymouth-rock-assurance-4444824739",
       "section": "hub_boston",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-engineer-at-ra-capital-management-4422826143": {
       "company": "RA Capital Management",
@@ -449,7 +498,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-ra-capital-management-4422826143",
       "section": "hub_boston",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.monster.com/job-openings/remote-machine-learning-engineer-plano-tx--cd6435c6-59fc-46ba-a2e0-e5ce0b20f2b9": {
       "company": "NTT DATA",
@@ -458,7 +508,8 @@
       "url": "https://www.monster.com/job-openings/remote-machine-learning-engineer-plano-tx--cd6435c6-59fc-46ba-a2e0-e5ce0b20f2b9",
       "section": "monster",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.monster.com/job-openings/machine-learning-engineer-with-python-w2-contract-plano-tx--e4d02384-684b-4eeb-9b85-bacdb87e6080": {
       "company": "Monster listing",
@@ -467,7 +518,8 @@
       "url": "https://www.monster.com/job-openings/machine-learning-engineer-with-python-w2-contract-plano-tx--e4d02384-684b-4eeb-9b85-bacdb87e6080",
       "section": "monster",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465394051": {
       "company": "Capital One",
@@ -476,7 +528,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465394051",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brellium-4453043727": {
       "company": "Brellium",
@@ -485,7 +538,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brellium-4453043727",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463900620": {
       "company": "Prudentia Sciences",
@@ -494,7 +548,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463900620",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-hcltech-4457797982": {
       "company": "HCLTech",
@@ -503,7 +558,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-hcltech-4457797982",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brown-brothers-harriman-4444627130": {
       "company": "Brown Brothers Harriman",
@@ -512,7 +568,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brown-brothers-harriman-4444627130",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-capgemini-4463152420": {
       "company": "Capgemini",
@@ -521,7 +578,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-capgemini-4463152420",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-rag-at-brightai-4281883251": {
       "company": "BrightAI",
@@ -530,7 +588,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-rag-at-brightai-4281883251",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-generative-ai-remote-at-the-home-depot-4461681728": {
       "company": "The Home Depot",
@@ -539,7 +598,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-generative-ai-remote-at-the-home-depot-4461681728",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-content-and-contributor-intelligence-remote-united-states-at-yelp-4387663037": {
       "company": "Yelp",
@@ -548,7 +608,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-content-and-contributor-intelligence-remote-united-states-at-yelp-4387663037",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-evenup-4437312010": {
       "company": "EvenUp",
@@ -557,7 +618,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-evenup-4437312010",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-trust-at-airbnb-4454831670": {
       "company": "Airbnb",
@@ -566,7 +628,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-trust-at-airbnb-4454831670",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455357162": {
       "company": "Salesforce",
@@ -575,7 +638,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455357162",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-personalization-muse-at-spotify-4408562717": {
       "company": "Spotify",
@@ -584,7 +648,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-personalization-muse-at-spotify-4408562717",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-platform-engineer-at-fieldai-4368413989": {
       "company": "FieldAI",
@@ -593,7 +658,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-platform-engineer-at-fieldai-4368413989",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-confido-4438511222": {
       "company": "Confido",
@@ -602,7 +668,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-confido-4438511222",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-blockchains-inc-4457292704": {
       "company": "Blockchains, Inc.",
@@ -611,7 +678,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-blockchains-inc-4457292704",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/sr-applied-ai-engineer-at-o-c-tanner-4461310154": {
       "company": "O.C. Tanner",
@@ -620,7 +688,8 @@
       "url": "https://www.linkedin.com/jobs/view/sr-applied-ai-engineer-at-o-c-tanner-4461310154",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950": {
       "company": "Entrata",
@@ -629,7 +698,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-engineer-machine-learning-at-berkadia-4462069192": {
       "company": "Berkadia",
@@ -638,7 +708,8 @@
       "url": "https://www.linkedin.com/jobs/view/senior-engineer-machine-learning-at-berkadia-4462069192",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454302465": {
       "company": "Booz Allen Hamilton",
@@ -647,7 +718,8 @@
       "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454302465",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/sr-artificial-intelligence-engineer-at-plymouth-rock-assurance-4444833722": {
       "company": "Plymouth Rock Assurance",
@@ -656,7 +728,8 @@
       "url": "https://www.linkedin.com/jobs/view/sr-artificial-intelligence-engineer-at-plymouth-rock-assurance-4444833722",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-sponsored-products-and-brands-at-amazon-4464051071": {
       "company": "Amazon",
@@ -665,7 +738,8 @@
       "url": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-sponsored-products-and-brands-at-amazon-4464051071",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-ml-genai-google-cloud-at-google-4454944241": {
       "company": "Google",
@@ -674,7 +748,449 @@
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-ml-genai-google-cloud-at-google-4454944241",
       "section": "stretch",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-10"
+      "last_seen": "2026-09-10",
+      "stale_since": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/advisory-ai-engineer-at-lenovo-4438337740": {
+      "company": "Lenovo",
+      "description": "**Advisory AI Engineer** (Chicago, IL). Applied AI engineering role at enterprise hardware/software vendor.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/advisory-ai-engineer-at-lenovo-4438337740",
+      "section": "ai_python",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-agent-engineer-at-general-motors-4399791760": {
+      "company": "General Motors",
+      "description": "**AI Agent Engineer** (Austin, TX). Agentic AI engineering at GM's software org.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-at-general-motors-4399791760",
+      "section": "genai_llm",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-at-avathon-4378704273": {
+      "company": "Avathon",
+      "description": "**AI Engineer** (Pleasanton, CA). Industrial AI platform startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-avathon-4378704273",
+      "section": "hub_sf",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-at-kharon-4462531561": {
+      "company": "Kharon",
+      "description": "**AI Engineer** (Denver, CO). Risk-intelligence data company building AI tooling.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-kharon-4462531561",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-at-univera-healthcare-4464823374": {
+      "company": "Univera Healthcare",
+      "description": "**AI Engineer** (Buffalo, NY). Healthcare payer building out AI capability, ungated level.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-univera-healthcare-4464823374",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-data-science-at-future-secure-ai-4437866232": {
+      "company": "Future Secure AI",
+      "description": "**AI Engineer, Data Science** (Austin, TX). Applied AI/data-science hybrid role at security-AI startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-data-science-at-future-secure-ai-4437866232",
+      "section": "hub_austin",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-hybrid-at-manulife-4454447041": {
+      "company": "Manulife",
+      "description": "**AI Engineer (Hybrid)** (Boston, MA). Insurance/financial services AI engineering, hybrid schedule.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-hybrid-at-manulife-4454447041",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-ml-engineer-agentic-ai-remote-at-cognizant-4455449506": {
+      "company": "Cognizant",
+      "description": "**AI/ML Engineer - Agentic AI (Remote)** (Englewood, CO — remote). Agentic AI delivery role at large consultancy.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-agentic-ai-remote-at-cognizant-4455449506",
+      "section": "remote",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-noda-ai-4443534037": {
+      "company": "NODA AI",
+      "description": "**AI/ML Engineer** (Austin, TX). Early-stage AI startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-noda-ai-4443534037",
+      "section": "hub_austin",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-ml-engineer-slalom-4453039469": {
+      "company": "Slalom",
+      "description": "**AI/ML Engineer** (Boston, MA). Consulting-delivery AI/ML engineering role.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-slalom-4453039469",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-meeboss-4466434676": {
+      "company": "MeeBoss",
+      "description": "**Applied AI Engineer** (Seattle, WA). Customer-facing applied AI role at early-stage startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-meeboss-4466434676",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/aws-agentic-ai-platform-engineer-at-booz-allen-hamilton-4457390974": {
+      "company": "Booz Allen Hamilton",
+      "description": "**AWS Agentic AI Platform Engineer** (Austin, TX). Federal AI platform/infra build-out on AWS.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/aws-agentic-ai-platform-engineer-at-booz-allen-hamilton-4457390974",
+      "section": "ml_platform",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/braid-senior-ai-engineer-at-brown-brothers-harriman-4444613951": {
+      "company": "Brown Brothers Harriman",
+      "description": "**Braid Senior AI Engineer** (Jersey City, NJ). Senior band at private bank's AI platform team.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/braid-senior-ai-engineer-at-brown-brothers-harriman-4444613951",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/experienced-ai-engineer-generative-ai-machine-learning-at-rli-insurance-company-4464669925": {
+      "company": "RLI Insurance Company",
+      "description": "**Experienced AI Engineer — Generative AI/Machine Learning** (Peoria, IL). Explicit GenAI/ML scope, ungated level.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/experienced-ai-engineer-generative-ai-machine-learning-at-rli-insurance-company-4464669925",
+      "section": "genai_llm",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/experienced-ai-engineer-generative-ai-machine-learning-at-rli-insurance-company-4464683680": {
+      "company": "RLI Insurance Company",
+      "description": "**Experienced AI Engineer — Generative AI/Machine Learning** (Chicago, IL). Same role, also posted here.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/experienced-ai-engineer-generative-ai-machine-learning-at-rli-insurance-company-4464683680",
+      "section": "genai_llm",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-analog-devices-4454131968": {
+      "company": "Analog Devices",
+      "description": "**Forward Deployed Engineer** (San Jose, CA). Customer-facing AI delivery at semiconductor firm.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-analog-devices-4454131968",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-devrev-4465106927": {
+      "company": "DevRev",
+      "description": "**Forward Deployed Engineer** (Austin, TX). Customer-facing AI/agents delivery at dev-tools startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-devrev-4465106927",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-tessera-labs-4394476935": {
+      "company": "Tessera Labs",
+      "description": "**Forward-Deployed Engineer** (New York, NY). Customer-facing AI delivery at early-stage startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-tessera-labs-4394476935",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-edgeverve-4464522470": {
+      "company": "EdgeVerve",
+      "description": "**Forward Deployed Engineer (FDE)** (New York, NY). Customer-facing AI delivery, Infosys subsidiary.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-edgeverve-4464522470",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-revin-4465427112": {
+      "company": "Revin",
+      "description": "**Forward Deployed Engineer (FDE)** (New York, NY). Customer-facing AI delivery at early-stage startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-revin-4465427112",
+      "section": "fde",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/gen-ai-engineer-with-agentic-ai-claude-ai-at-synechron-4464241740": {
+      "company": "Synechron",
+      "description": "**Gen AI Engineer with Agentic AI — Claude AI** (Charlotte, NC). Explicit Claude/agentic GenAI engineering.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/gen-ai-engineer-with-agentic-ai-claude-ai-at-synechron-4464241740",
+      "section": "genai_llm",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/ai-engineer-jn-092026-180980-at-goodwin-recruiting-4464899382": {
+      "company": "Goodwin Recruiting",
+      "description": "**AI Engineer** (San Bruno, CA). Boutique recruiting-firm posting on behalf of a client; verify employer on LinkedIn.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-jn-092026-180980-at-goodwin-recruiting-4464899382",
+      "section": "ai_python",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-at-capital-one-4466472563": {
+      "company": "Capital One",
+      "description": "**Lead AI Engineer (AI Foundations)** (Cambridge, MA). Lead-band core AI platform team; also posted in NY.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-at-capital-one-4466472563",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai-at-capital-one-4457817842": {
+      "company": "Capital One",
+      "description": "**Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)** (New York, NY). Lead-band LLM/agentic platform work.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai-at-capital-one-4457817842",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-blissway-inc-4457515743": {
+      "company": "Blissway Inc.",
+      "description": "**Machine Learning Engineer** (Denver, CO). Ungated level at early-stage company.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-blissway-inc-4457515743",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-booz-allen-hamilton-4455950373": {
+      "company": "Booz Allen Hamilton",
+      "description": "**Machine Learning Engineer** (Aurora, CO). Federal ML engineering, ungated level.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-booz-allen-hamilton-4455950373",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449968567": {
+      "company": "TikTok",
+      "description": "**Machine Learning Engineer Graduate (E-Commerce Recommendation/Search, 2027 start)** (San Jose, CA). New-grad ML program.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449968567",
+      "section": "apply_first",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-level-4-at-snap-inc-4437428790": {
+      "company": "Snap Inc.",
+      "description": "**Machine Learning Engineer, Level 4** (Seattle, WA). Mid-level MLE role.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-level-4-at-snap-inc-4437428790",
+      "section": "hub_seattle",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/machine-learning-engineer-public-sector-at-scale-ai-4465836416": {
+      "company": "Scale AI",
+      "description": "**Machine Learning Engineer, Public Sector** (Denver, CO). Federal/public-sector ML engineering.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-public-sector-at-scale-ai-4465836416",
+      "section": "hub_boston",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465377560": {
+      "company": "Capital One",
+      "description": "**Senior AI Engineer (AI Foundations)** (Cambridge, MA). Senior band; also posted in NY.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465377560",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463902659": {
+      "company": "Prudentia Sciences",
+      "description": "**Senior AI/ML Engineer** (Cambridge, MA). Senior band; also posted in NY.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463902659",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-applied-ai-ml-engineer-at-confido-4438293984": {
+      "company": "Confido",
+      "description": "**Senior Applied AI/ML Engineer** (New York, NY). Senior band, customer-facing applied AI.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-applied-ai-ml-engineer-at-confido-4438293984",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-engineer-ai-agentic-solutions-hybrid-seattle-wa-at-nordstrom-4419513504": {
+      "company": "Nordstrom",
+      "description": "**Senior Engineer: AI Agentic Solutions** (Hybrid — Seattle, WA). Senior band agentic AI role.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-engineer-ai-agentic-solutions-hybrid-seattle-wa-at-nordstrom-4419513504",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927297": {
+      "company": "Oracle",
+      "description": "**Senior Machine Learning Engineer** (Seattle, WA). Senior band; also posted in Austin.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927297",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927298": {
+      "company": "Oracle",
+      "description": "**Senior Machine Learning Engineer** (Austin, TX). Senior band; also posted in Seattle.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927298",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-fraud-at-plaid-4466485177": {
+      "company": "Plaid",
+      "description": "**Senior Machine Learning Engineer - Fraud** (Seattle, WA). Senior band, fraud/risk ML.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-fraud-at-plaid-4466485177",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401362478": {
+      "company": "Signifyd",
+      "description": "**Senior Machine Learning Engineer I // II** (Denver, CO). Senior band; also posted in Seattle.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401362478",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401368418": {
+      "company": "Signifyd",
+      "description": "**Senior Machine Learning Engineer I // II** (Seattle, WA). Senior band; also posted in Denver.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401368418",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-recommendations-usds-at-tiktok-usds-joint-venture-4465825417": {
+      "company": "TikTok USDS Joint Venture",
+      "description": "**Senior Machine Learning Engineer, Recommendations - USDS** (Seattle, WA). Senior band recsys role.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-recommendations-usds-at-tiktok-usds-joint-venture-4465825417",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455351911": {
+      "company": "Salesforce",
+      "description": "**Senior ML Engineer** (Bellevue, WA). Senior band ML engineering.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455351911",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-at-docusign-4465111236": {
+      "company": "DocuSign",
+      "description": "**Senior Software Engineer - AI** (San Francisco, CA). Senior band AI software engineering.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-at-docusign-4465111236",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-ai-at-nice-4463089019": {
+      "company": "NiCE",
+      "description": "**Software Engineer, AI** (Sandy, UT). Application-layer AI software engineering, ungated level.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-at-nice-4463089019",
+      "section": "ai_python",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-ema-4454666064": {
+      "company": "Ema",
+      "description": "**Software Engineer, Machine Learning** (San Francisco Bay Area). Application-layer ML engineering at AI-agent startup.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-ema-4454666064",
+      "section": "ai_python",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-core-engineering-at-pinterest-4121963767": {
+      "company": "Pinterest",
+      "description": "**Sr. Machine Learning Engineer, Core Engineering** (Seattle, WA). Senior band core ML infra.",
+      "link_text": "Apply on LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-core-engineering-at-pinterest-4121963767",
+      "section": "stretch",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.monster.com/job-openings/machine-learning-engineer-intelligent-sensing-technology-incubation-cupertino-ca--50eb09d7-877e-47a5-a725-cbdf5aba9d82": {
+      "company": "Apple",
+      "description": "**Machine Learning Engineer, Intelligent Sensing Technology - Incubation** (Cupertino, CA). Monster listing — verify level and status before applying.",
+      "link_text": "View on Monster",
+      "url": "https://www.monster.com/job-openings/machine-learning-engineer-intelligent-sensing-technology-incubation-cupertino-ca--50eb09d7-877e-47a5-a725-cbdf5aba9d82",
+      "section": "monster",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.monster.com/job-openings/ai-machine-learning-engineer-sme-washington-dc--71386841-1eed-479d-a485-f2f5a8893592": {
+      "company": "SME (Monster listing)",
+      "description": "**AI/Machine Learning Engineer SME** (Washington, DC). Monster listing — verify employer and status before applying.",
+      "link_text": "View on Monster",
+      "url": "https://www.monster.com/job-openings/ai-machine-learning-engineer-sme-washington-dc--71386841-1eed-479d-a485-f2f5a8893592",
+      "section": "monster",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.monster.com/job-openings/senior-machine-learning-engineer-neuro-symbolic-ai-labs-boston-ma--6e6ac50f-2d26-41b3-94fc-1285424eab13": {
+      "company": "Monster listing",
+      "description": "**Senior Machine Learning Engineer, Neuro-Symbolic AI Labs** (Boston, MA). Monster listing — verify employer and status before applying.",
+      "link_text": "View on Monster",
+      "url": "https://www.monster.com/job-openings/senior-machine-learning-engineer-neuro-symbolic-ai-labs-boston-ma--6e6ac50f-2d26-41b3-94fc-1285424eab13",
+      "section": "monster",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.monster.com/job-openings/applied-ai-engineer-new-york-ny--c740fc59-44c5-4a76-889f-74c25d3ec45b": {
+      "company": "NYU Langone Medical Center",
+      "description": "**Applied AI Engineer** (New York, NY). Health-system GenAI/ML implementation role. Monster listing — verify status before applying.",
+      "link_text": "View on Monster",
+      "url": "https://www.monster.com/job-openings/applied-ai-engineer-new-york-ny--c740fc59-44c5-4a76-889f-74c25d3ec45b",
+      "section": "monster",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
+    },
+    "https://www.monster.com/job-openings/lead-generative-ai-engineer-reston-va--cb11d8d0-ddbb-41af-b5df-5921ed99b9fb": {
+      "company": "CGI Inc",
+      "description": "**Lead Generative AI Engineer** (Reston, VA). Monster listing — verify employer and status before applying.",
+      "link_text": "View on Monster",
+      "url": "https://www.monster.com/job-openings/lead-generative-ai-engineer-reston-va--cb11d8d0-ddbb-41af-b5df-5921ed99b9fb",
+      "section": "monster",
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12"
     }
   },
   "run_history": [
@@ -686,6 +1202,15 @@
       "searched_count": 75,
       "not_in_latest_search": 0,
       "total": 75
+    },
+    {
+      "date": "2026-09-12",
+      "action": "merge",
+      "new_count": 49,
+      "updated_count": 0,
+      "searched_count": 49,
+      "not_in_latest_search": 75,
+      "total": 124
     }
   ],
   "baseline_date": "2026-09-10"
