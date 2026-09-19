@@ -2,8 +2,8 @@
 
 **Last updated:** 2026-09-18  
 **Previous run:** 2026-09-12  
-**Total tracked:** 166  
-**New this run:** 48  
+**Total tracked:** 112  
+**New this run:** 32  
 
 **Roles:** AI Engineer · Forward Deployed AI Engineer · AI/Python Engineer · LLM / GenAI Engineer · Applied AI Engineer  
 **Search scope:** LinkedIn (guest job API) + Monster · US hubs + Remote  
@@ -15,30 +15,22 @@
 
 ## 🆕 What's new — 2026-09-18
 
-**48 new posting(s)** since previous run (2026-09-12).
+**32 new posting(s)** since previous run (2026-09-12).
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Adobe** | **Senior Machine Learning Engineer** (San Jose, CA). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-adobe-4466822494) |
-| 🆕 **Angi** | **Senior Machine Learning Engineer** (Denver, CO). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-angi-4467915915) |
 | 🆕 **ASI** | **Machine Learning Engineer (Defense)** (Boston, MA). Defense-sector ML engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/machine-learning-engineer-defense-at-asi-4467267114) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer, Search & Intelligence** (Seattle, WA). Senior band search/intelligence ML. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-search-intelligence-at-atlassian-4467452015) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer - Growth** (Seattle, WA). Senior band growth ML. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-growth-at-atlassian-4467428972) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer** (Seattle, WA). Senior band, general ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-atlassian-4467445173) |
 | 🆕 **AustinWorks** | **Forward Deployed Engineer** (New York, NY). Customer-facing AI delivery role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-austinworks-4466639294) |
 | 🆕 **Beacon AI** | **Software Engineer, Artificial Intelligence/LLM (Multiple Seniority Levels)** (San Carlos, CA). LLM application engineering, apply at level that fits. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/software-engineer-artificial-intelligence-llm-multiple-seniority-levels-at-beacon-ai-4467451263) |
 | 🆕 **Blissway Inc.** | **Machine Learning Engineer** (Denver, CO). Ungated-level MLE, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/machine-learning-engineer-at-blissway-inc-4463660189) |
 | 🆕 **Blossom** | **Applied AI Software Engineer** (New York, NY). Customer-facing applied AI at early-stage startup. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/applied-ai-software-engineer-at-blossom-4467285902) |
 | 🆕 **Booz Allen Hamilton** | **Agentic AI Machine Learning Engineer** (Alexandria, VA). Federal agentic AI/ML engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/agentic-ai-machine-learning-engineer-at-booz-allen-hamilton-4420676356) |
 | 🆕 **Booz Allen Hamilton** | **AI Engineer** (San Antonio, TX). Federal AI engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-engineer-at-booz-allen-hamilton-4449695407) |
-| 🆕 **Booz Allen Hamilton** | **AI/ML Engineer, Senior** (Dayton, OH). Senior federal AI/ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4432020224) |
 | 🆕 **Bright Vision Technologies** | **Foundation Model Engineer** (Leander, TX). Foundation-model/LLM engineering role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/foundation-model-engineer-at-bright-vision-technologies-4467767443) |
 | 🆕 **Bright Vision Technologies** | **AI Innovation Engineer** (Leander, TX). Applied AI engineering near Austin. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-innovation-engineer-at-bright-vision-technologies-4467767447) |
-| 🆕 **Brown Brothers Harriman** | **Braid Senior AI Engineer** (Boston, MA). Senior band; also posted in NJ. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/braid-senior-ai-engineer-at-brown-brothers-harriman-4444627130) |
 | 🆕 **Buildwell Talent** | **Forward Deployed Engineer | AI Startup** (United States). Recruiting-firm posting for an AI startup client; verify employer on LinkedIn. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-ai-startup-at-buildwell-talent-4467244680) |
 | 🆕 **CACI International Inc** | **AI/ML Engineer** (Aurora, CO). Federal AI/ML engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-ml-engineer-at-caci-international-inc-4461181461) |
 | 🆕 **Capital One** | **Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)** (New York, NY). Lead-band LLM/agentic platform work, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai-at-capital-one-4457805871) |
-| 🆕 **Capital One** | **Senior AI Engineer (AI Foundations)** (New York, NY). Senior band core AI platform team, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4466479505) |
 | 🆕 **Capital One** | **Lead AI Engineer (MLX, Agentic AI, Gen AI Platform Services)** (New York, NY). Lead-band agentic/GenAI platform work. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-mlx-agentic-ai-gen-ai-platform-services-at-capital-one-4439566215) |
 | 🆕 **Capital One** | **Lead AI Engineer (AI Foundations, VLM Customization)** (New York, NY). Lead-band vision-language model customization. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-vlm-customization-at-capital-one-4459812388) |
 | 🆕 **Cohere** | **Forward Deployed Engineer, Agentic Platform (West Coast)** (Los Angeles, CA). Customer-facing agentic platform delivery. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-west-coast-at-cohere-4430589061) |
@@ -49,24 +41,16 @@
 | 🆕 **Harnham** | **AI/ML Engineer** (San Mateo County, CA). Recruiting-firm posting; verify employer on LinkedIn. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-ml-engineer-at-harnham-4467566257) |
 | 🆕 **Harnham** | **AI Engineer** (San Francisco County, CA). Recruiting-firm posting; verify employer on LinkedIn. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-engineer-at-harnham-4467581043) |
 | 🆕 **Harrison Clarke** | **AI Engineer** (San Francisco, $250k + equity). Recruiting-firm posting; verify employer on LinkedIn. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-engineer-san-francisco-%24250k-%2B-equity-at-harrison-clarke-4453127592) |
-| 🆕 **HP** | **Senior Machine Learning Engineer** (Spring, TX). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-hp-4468672502) |
 | 🆕 **KLA** | **Software Engineer (AI/ML)** (Austin, TX). Application-layer AI/ML engineering at semiconductor equipment maker. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/software-engineer-ai-ml-at-kla-4447301282) |
 | 🆕 **KPMG US** | **Associate, AI Engineer** (Denver, CO). Entry-level associate-band AI engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/associate-ai-engineer-at-kpmg-us-4461343460) |
-| 🆕 **LG Ad Solutions** | **Sr Software Engineer II, AI** (Denver, CO). Senior band AI software engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-software-engineer-ii-ai-at-lg-ad-solutions-4468859539) |
-| 🆕 **Manulife** | **Senior Machine Learning Engineer - Hybrid** (Boston, MA). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-hybrid-at-manulife-4457649275) |
 | 🆕 **Monster listing** | **Entry Level AI & Machine Learning Engineer** (Clayton, NC). Monster listing — verify employer and status before applying. | [View on Monster](https://monster.com/job-openings/entry-level-ai-machine-learning-engineer-clayton-nc--dc039591-228c-4201-8020-ee992be5e93d) |
 | 🆕 **Northrop Grumman** | **Associate AI Software Engineer / AI Software Engineer (AHT)** (Beavercreek, OH). Entry-level defense AI software role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/associate-ai-software-engineer-ai-software-engineer-aht-at-northrop-grumman-4468369123) |
 | 🆕 **Nxt Level** | **Forward Deployed Engineer** (New York City Metropolitan Area). Customer-facing AI delivery role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-nxt-level-4468637669) |
-| 🆕 **Optum** | **Senior AI/ML Engineer - Remote** (Eden Prairie, MN — remote). Senior band remote AI/ML role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-remote-at-optum-4468249243) |
 | 🆕 **Outdoorsy (Roamly Labs)** | **AI Engineer** (Austin, TX). Applied AI role at insurtech startup's Roamly Labs. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/roamly-labs-ai-engineer-at-outdoorsy-4466908515) |
 | 🆕 **Revin** | **Forward Deployed Engineer (FDE)** (New York, NY). Customer-facing AI delivery, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/forward-deployed-engineer-fde-at-revin-4466119486) |
-| 🆕 **Revionics (an Aptos Company)** | **Sr. Machine Learning Engineer** (Austin, TX). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-revionics-an-aptos-company-4438443984) |
-| 🆕 **Runtime** | **Senior Forward Deployed Engineer** (United States). Senior band customer-facing AI delivery. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-forward-deployed-engineer-at-runtime-4469213452) |
 | 🆕 **ServiceNow (Moveworks)** | **Machine Learning Engineer, GAI Search Platform - Moveworks** (Mountain View, CA). GenAI search platform engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/machine-learning-engineer-gai-search-platform-moveworks-at-servicenow-4411693179) |
 | 🆕 **TikTok USDS Joint Venture** | **Machine Learning Engineer, Recommendations - USDS** (Seattle, WA). Recsys ML engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/machine-learning-engineer-recommendations-usds-at-tiktok-usds-joint-venture-4466795312) |
-| 🆕 **United Airlines** | **Sr. Developer - Python AI** (Chicago, IL). Senior Python/AI application development role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-developer-python-ai-at-united-airlines-4466538130) |
 | 🆕 **WisdomAI** | **Software Engineer, NLP/Machine Learning** (San Mateo, CA). Application-layer NLP/ML engineering, ungated level. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/software-engineer-nlp-machine-learning-at-wisdomai-4395147415) |
-| 🆕 **Workday** | **Senior Machine Learning Engineer - AI Platform** (Boulder, CO). Senior band AI platform ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ai-platform-at-workday-4446282072) |
 
 ---
 
@@ -230,7 +214,6 @@
 | **Apple** | **Machine Learning Engineer, Intelligent Sensing Technology - Incubation** (Cupertino, CA). Monster listing — verify level and status before applying. | [View on Monster](https://www.monster.com/job-openings/machine-learning-engineer-intelligent-sensing-technology-incubation-cupertino-ca--50eb09d7-877e-47a5-a725-cbdf5aba9d82) |
 | **CGI Inc** | **Lead Generative AI Engineer** (Reston, VA). Monster listing — verify employer and status before applying. | [View on Monster](https://www.monster.com/job-openings/lead-generative-ai-engineer-reston-va--cb11d8d0-ddbb-41af-b5df-5921ed99b9fb) |
 | **Monster listing** | **Machine Learning Engineer with Python — W2 Contract** (Plano, TX). Contract MLE role, Python-first. Verify employer and status on Monster. | [View on Monster](https://www.monster.com/job-openings/machine-learning-engineer-with-python-w2-contract-plano-tx--e4d02384-684b-4eeb-9b85-bacdb87e6080) |
-| **Monster listing** | **Senior Machine Learning Engineer, Neuro-Symbolic AI Labs** (Boston, MA). Monster listing — verify employer and status before applying. | [View on Monster](https://www.monster.com/job-openings/senior-machine-learning-engineer-neuro-symbolic-ai-labs-boston-ma--6e6ac50f-2d26-41b3-94fc-1285424eab13) |
 | **NTT DATA** | **Remote Machine Learning Engineer** (Plano, TX — remote). Monster listing — verify level and status on Monster before applying. | [View on Monster](https://www.monster.com/job-openings/remote-machine-learning-engineer-plano-tx--cd6435c6-59fc-46ba-a2e0-e5ce0b20f2b9) |
 | **NYU Langone Medical Center** | **Applied AI Engineer** (New York, NY). Health-system GenAI/ML implementation role. Monster listing — verify status before applying. | [View on Monster](https://www.monster.com/job-openings/applied-ai-engineer-new-york-ny--c740fc59-44c5-4a76-889f-74c25d3ec45b) |
 | **SME (Monster listing)** | **AI/Machine Learning Engineer SME** (Washington, DC). Monster listing — verify employer and status before applying. | [View on Monster](https://www.monster.com/job-openings/ai-machine-learning-engineer-sme-washington-dc--71386841-1eed-479d-a485-f2f5a8893592) |
@@ -239,64 +222,11 @@
 
 | company_name | job_description | link |
 |---|---|---|
-| 🆕 **Adobe** | **Senior Machine Learning Engineer** (San Jose, CA). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-adobe-4466822494) |
-| 🆕 **Angi** | **Senior Machine Learning Engineer** (Denver, CO). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-angi-4467915915) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer, Search & Intelligence** (Seattle, WA). Senior band search/intelligence ML. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-search-intelligence-at-atlassian-4467452015) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer - Growth** (Seattle, WA). Senior band growth ML. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-growth-at-atlassian-4467428972) |
-| 🆕 **Atlassian** | **Senior Machine Learning Engineer** (Seattle, WA). Senior band, general ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-atlassian-4467445173) |
-| 🆕 **Booz Allen Hamilton** | **AI/ML Engineer, Senior** (Dayton, OH). Senior federal AI/ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4432020224) |
-| 🆕 **Brown Brothers Harriman** | **Braid Senior AI Engineer** (Boston, MA). Senior band; also posted in NJ. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/braid-senior-ai-engineer-at-brown-brothers-harriman-4444627130) |
 | 🆕 **Capital One** | **Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)** (New York, NY). Lead-band LLM/agentic platform work, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai-at-capital-one-4457805871) |
-| 🆕 **Capital One** | **Senior AI Engineer (AI Foundations)** (New York, NY). Senior band core AI platform team, new req. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4466479505) |
 | 🆕 **Capital One** | **Lead AI Engineer (MLX, Agentic AI, Gen AI Platform Services)** (New York, NY). Lead-band agentic/GenAI platform work. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-mlx-agentic-ai-gen-ai-platform-services-at-capital-one-4439566215) |
 | 🆕 **Capital One** | **Lead AI Engineer (AI Foundations, VLM Customization)** (New York, NY). Lead-band vision-language model customization. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-vlm-customization-at-capital-one-4459812388) |
-| 🆕 **HP** | **Senior Machine Learning Engineer** (Spring, TX). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-hp-4468672502) |
-| 🆕 **LG Ad Solutions** | **Sr Software Engineer II, AI** (Denver, CO). Senior band AI software engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-software-engineer-ii-ai-at-lg-ad-solutions-4468859539) |
-| 🆕 **Manulife** | **Senior Machine Learning Engineer - Hybrid** (Boston, MA). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-hybrid-at-manulife-4457649275) |
-| 🆕 **Optum** | **Senior AI/ML Engineer - Remote** (Eden Prairie, MN — remote). Senior band remote AI/ML role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-remote-at-optum-4468249243) |
-| 🆕 **Revionics (an Aptos Company)** | **Sr. Machine Learning Engineer** (Austin, TX). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-at-revionics-an-aptos-company-4438443984) |
-| 🆕 **Runtime** | **Senior Forward Deployed Engineer** (United States). Senior band customer-facing AI delivery. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-forward-deployed-engineer-at-runtime-4469213452) |
-| 🆕 **United Airlines** | **Sr. Developer - Python AI** (Chicago, IL). Senior Python/AI application development role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-developer-python-ai-at-united-airlines-4466538130) |
-| 🆕 **Workday** | **Senior Machine Learning Engineer - AI Platform** (Boulder, CO). Senior band AI platform ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-ai-platform-at-workday-4446282072) |
-| **Airbnb** | **Senior Machine Learning Engineer, Trust** (San Francisco, CA). Trust & safety ML at scale; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-trust-at-airbnb-4454831670) |
-| **Amazon** | **Sr. Machine Learning Engineer, Sponsored Products and Brands** (Seattle, WA). Ads ML at scale; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-sponsored-products-and-brands-at-amazon-4464051071) |
-| **Berkadia** | **Senior Engineer — Machine Learning** (New York, NY). Commercial real-estate ML; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-engineer-machine-learning-at-berkadia-4462069192) |
-| **Blockchains, Inc.** | **Senior AI Engineer** (Reno, NV). Senior AI engineering outside the major hubs — lower competition. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-at-blockchains-inc-4457292704) |
-| **Booz Allen Hamilton** | **AI/ML Engineer, Senior** (Dayton, OH). Senior federal AI/ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454302465) |
-| **Brellium** | **Senior AI Engineer** (New York, NY). Healthcare-AI startup; senior band but small team with wide ownership. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brellium-4453043727) |
-| **BrightAI** | **Senior AI Engineer – LLM, RAG** (Palo Alto, CA). Senior band LLM/RAG engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-%E2%80%93-llm-rag-at-brightai-4281883251) |
-| **Brown Brothers Harriman** | **Senior AI Engineer** (Boston, MA). Financial-services AI engineering; also posted in Jersey City and New York. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-at-brown-brothers-harriman-4444627130) |
-| **Brown Brothers Harriman** | **Braid Senior AI Engineer** (Jersey City, NJ). Senior band at private bank's AI platform team. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/braid-senior-ai-engineer-at-brown-brothers-harriman-4444613951) |
-| **Capgemini** | **Senior AI Engineer** (Atlanta, GA). Consulting senior AI engineering role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-at-capgemini-4463152420) |
-| **Capital One** | **Senior AI Engineer (AI Foundations)** (New York, NY). Core AI platform team; senior band. Also posted in Cambridge, MA. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465394051) |
 | **Capital One** | **Lead AI Engineer (AI Foundations)** (Cambridge, MA). Lead-band core AI platform team; also posted in NY. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-at-capital-one-4466472563) |
 | **Capital One** | **Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)** (New York, NY). Lead-band LLM/agentic platform work. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/lead-ai-engineer-ai-foundations-llm-core-and-agentic-ai-at-capital-one-4457817842) |
-| **Capital One** | **Senior AI Engineer (AI Foundations)** (Cambridge, MA). Senior band; also posted in NY. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-ai-foundations-at-capital-one-4465377560) |
-| **Confido** | **Senior ML Ops Engineer** (New York, NY). MLOps ownership at a startup; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ml-ops-engineer-at-confido-4438511222) |
-| **Confido** | **Senior Applied AI/ML Engineer** (New York, NY). Senior band, customer-facing applied AI. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-applied-ai-ml-engineer-at-confido-4438293984) |
-| **DocuSign** | **Senior Software Engineer - AI** (San Francisco, CA). Senior band AI software engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-software-engineer-ai-at-docusign-4465111236) |
-| **Entrata** | **Senior Machine Learning Engineer** (Lehi, UT). Remote-eligible senior MLE at a proptech SaaS company. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950) |
-| **EvenUp** | **Senior Machine Learning Engineer** (San Francisco, CA). Legal-AI startup; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-evenup-4437312010) |
-| **FieldAI** | **Senior Machine Learning Platform Engineer** (Irvine, CA). Robotics-AI platform engineering; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-platform-engineer-at-fieldai-4368413989) |
-| **Google** | **Senior Software Engineer, AI/ML GenAI — Google Cloud** (New York, NY). Senior rung of the Google Cloud GenAI ladder; also posted in Kirkland, WA. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-software-engineer-ai-ml-genai-google-cloud-at-google-4454944241) |
-| **HCLTech** | **Senior AI Engineer** (New York, NY). Services-side senior AI engineering; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-engineer-at-hcltech-4457797982) |
-| **Nordstrom** | **Senior Engineer: AI Agentic Solutions** (Hybrid — Seattle, WA). Senior band agentic AI role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-engineer-ai-agentic-solutions-hybrid-seattle-wa-at-nordstrom-4419513504) |
-| **O.C. Tanner** | **Sr. Applied AI Engineer** (Salt Lake City Metro). Applied AI at senior band; SLC market. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-applied-ai-engineer-at-o-c-tanner-4461310154) |
-| **Oracle** | **Senior Machine Learning Engineer** (Seattle, WA). Senior band; also posted in Austin. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927297) |
-| **Oracle** | **Senior Machine Learning Engineer** (Austin, TX). Senior band; also posted in Seattle. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-oracle-4463927298) |
-| **Pinterest** | **Sr. Machine Learning Engineer, Core Engineering** (Seattle, WA). Senior band core ML infra. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-core-engineering-at-pinterest-4121963767) |
-| **Plaid** | **Senior Machine Learning Engineer - Fraud** (Seattle, WA). Senior band, fraud/risk ML. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-fraud-at-plaid-4466485177) |
-| **Plymouth Rock Assurance** | **Sr. Artificial Intelligence Engineer** (Greater Boston). Senior counterpart to the ungated Plymouth Rock AI Engineer posting. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/sr-artificial-intelligence-engineer-at-plymouth-rock-assurance-4444833722) |
-| **Prudentia Sciences** | **Senior AI/ML Engineer** (New York, NY). Senior band; also posted in Cambridge, MA. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463900620) |
-| **Prudentia Sciences** | **Senior AI/ML Engineer** (Cambridge, MA). Senior band; also posted in NY. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-prudentia-sciences-4463902659) |
-| **Salesforce** | **Senior ML Engineer** (San Francisco, CA). Senior MLE on Salesforce's AI platform. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455357162) |
-| **Salesforce** | **Senior ML Engineer** (Bellevue, WA). Senior band ML engineering. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-ml-engineer-at-salesforce-4455351911) |
-| **Signifyd** | **Senior Machine Learning Engineer I // II** (Denver, CO). Senior band; also posted in Seattle. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401362478) |
-| **Signifyd** | **Senior Machine Learning Engineer I // II** (Seattle, WA). Senior band; also posted in Denver. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-i-ii-at-signifyd-4401368418) |
-| **Spotify** | **Senior Machine Learning Engineer, Personalization (Muse)** (New York, NY). Recommendation/personalization ML; senior band. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-personalization-muse-at-spotify-4408562717) |
-| **The Home Depot** | **Senior Machine Learning Engineer — Generative AI (REMOTE)** (Atlanta, GA). Fully remote senior GenAI MLE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-generative-ai-remote-at-the-home-depot-4461681728) |
-| **TikTok USDS Joint Venture** | **Senior Machine Learning Engineer, Recommendations - USDS** (Seattle, WA). Senior band recsys role. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-recommendations-usds-at-tiktok-usds-joint-venture-4465825417) |
-| **Yelp** | **Senior Machine Learning Engineer — Content and Contributor Intelligence (Remote US)** (San Francisco, CA). Remote-US senior MLE. | [Apply on LinkedIn](https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-content-and-contributor-intelligence-remote-united-states-at-yelp-4387663037) |
 
 ---
 

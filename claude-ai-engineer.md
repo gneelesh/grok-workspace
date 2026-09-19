@@ -127,7 +127,9 @@ Write results to `ai-engineer-inbox.json` at workspace root.
 
 **Include:** AI Engineer · Applied AI Engineer · Forward Deployed (AI/Software) Engineer · AI/ML Engineer · LLM Engineer · GenAI Engineer · Machine Learning Engineer · Python Engineer with AI scope · AI Software Engineer · MLOps / ML Platform Engineer · Agent Engineer
 
-**Exclude:** Principal · Distinguished · Staff · Director · VP · Research Scientist (PhD-gated) · pure Data Analyst / Data Engineer with no AI scope · prompt-only "AI trainer" gig listings · aggregator spam (Jobright.ai, "Jobs AI", Client Reach AI and similar reposters)
+**Exclude:** Senior · Sr. · Principal · Distinguished · Staff · Director · VP · Research Scientist (PhD-gated) · pure Data Analyst / Data Engineer with no AI scope · prompt-only "AI trainer" gig listings · aggregator spam (Jobright.ai, "Jobs AI", Client Reach AI and similar reposters)
+
+Check the job **title**, not just the description body — a posting whose title contains "Senior" or "Sr." is excluded even if the body says things like "not senior-gated." "Lead" titles are not excluded by this rule.
 
 **Section assignment:**
 
@@ -145,7 +147,7 @@ Write results to `ai-engineer-inbox.json` at workspace root.
 | Austin, Dallas, Houston, Texas | `hub_austin` |
 | Boston, Denver, other US metros | `hub_boston` |
 | monster.com URL | `monster` |
-| Senior-only, 5+ years, research-heavy | `stretch` |
+| Lead-band or research-heavy (not Senior-titled — those are excluded) | `stretch` |
 
 ### Step 3 — Merge, prune again, regenerate markdown
 
@@ -202,3 +204,4 @@ git commit -m "Daily AI engineer job search YYYY-MM-DD: N new, M pruned"
 - Run any command without `JOB_TRACK_CONFIG` set — it will overwrite the presales track
 - Manually delete jobs from state — use `job_search.py prune` instead
 - Skip the merge script — manual markdown edits break state sync
+- Add a job whose title contains "Senior" or "Sr." to the inbox — check the title, not just the body text, before writing each entry
